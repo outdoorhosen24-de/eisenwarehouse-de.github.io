@@ -1,107 +1,415 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "beschläge",
+        "name": "Beschläge",
+        "slug": "beschlage",
+        "productCategory": "Beschläge",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "baubeschläge",
+        "name": "Baubeschläge",
+        "slug": "baubeschlage",
+        "productCategory": "Baubeschläge",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "pfostenträger & bodenhülsen",
+        "name": "Pfostenträger & Bodenhülsen",
+        "slug": "pfostentrager-bodenhulsen",
+        "productCategory": "Pfostenträger & Bodenhülsen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "haken & ösen",
+        "name": "Haken & Ösen",
+        "slug": "haken-osen",
+        "productCategory": "Haken & Ösen",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "wandhaken",
+        "name": "Wandhaken",
+        "slug": "wandhaken",
+        "productCategory": "Wandhaken",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "schrauben",
+        "name": "Schrauben",
+        "slug": "schrauben",
+        "productCategory": "Schrauben",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "holzschrauben & holzbauschrauben",
+        "name": "Holzschrauben & Holzbauschrauben",
+        "slug": "holzschrauben-holzbauschrauben",
+        "productCategory": "Holzschrauben & Holzbauschrauben",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "terrassenschrauben",
+        "name": "Terrassenschrauben",
+        "slug": "terrassenschrauben",
+        "productCategory": "Terrassenschrauben",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "winkel & holzverbinder",
+        "name": "Winkel & Holzverbinder",
+        "slug": "winkel-holzverbinder",
+        "productCategory": "Winkel & Holzverbinder",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "gewindestangen",
+        "name": "Gewindestangen",
+        "slug": "gewindestangen",
+        "productCategory": "Gewindestangen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "spanplattenschrauben & universalschrauben",
+        "name": "Spanplattenschrauben & Universalschrauben",
+        "slug": "spanplattenschrauben-universalschrauben",
+        "productCategory": "Spanplattenschrauben & Universalschrauben",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "möbeltechnik",
+        "name": "Möbeltechnik",
+        "slug": "mobeltechnik",
+        "productCategory": "Möbeltechnik",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "möbelausstattung",
+        "name": "Möbelausstattung",
+        "slug": "mobelausstattung",
+        "productCategory": "Möbelausstattung",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "dübel",
+        "name": "Dübel",
+        "slug": "dubel",
+        "productCategory": "Dübel",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "blechschrauben & bohrschrauben",
+        "name": "Blechschrauben & Bohrschrauben",
+        "slug": "blechschrauben-bohrschrauben",
+        "productCategory": "Blechschrauben & Bohrschrauben",
+        "subCategories": []
+    },
+    {
+        "key": "blechschrauben & bohrschrauben-sets",
+        "name": "Blechschrauben & Bohrschrauben-Sets",
+        "slug": "blechschrauben-bohrschrauben-sets",
+        "productCategory": "Blechschrauben & Bohrschrauben-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "kleineisenwaren-sets",
+        "name": "Kleineisenwaren-Sets",
+        "slug": "kleineisenwaren-sets",
+        "productCategory": "Kleineisenwaren-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "metrische-schrauben-sets",
+        "name": "Metrische-Schrauben-Sets",
+        "slug": "metrische-schrauben-sets",
+        "productCategory": "Metrische-Schrauben-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "rollen & räder",
+        "name": "Rollen & Räder",
+        "slug": "rollen-rader",
+        "productCategory": "Rollen & Räder",
+        "subCategories": []
+    },
+    {
+        "key": "schiebetürbeschläge",
+        "name": "Schiebetürbeschläge",
+        "slug": "schiebeturbeschlage",
+        "productCategory": "Schiebetürbeschläge",
+        "subCategories": []
+    },
+    {
+        "key": "briefkästen",
+        "name": "Briefkästen",
+        "slug": "briefkasten",
+        "productCategory": "Briefkästen",
+        "subCategories": []
+    },
+    {
+        "key": "möbelbeine",
+        "name": "Möbelbeine",
+        "slug": "mobelbeine",
+        "productCategory": "Möbelbeine",
+        "subCategories": []
+    },
+    {
+        "key": "profile & bleche",
+        "name": "Profile & Bleche",
+        "slug": "profile-bleche",
+        "productCategory": "Profile & Bleche",
+        "subCategories": []
+    },
+    {
+        "key": "bleche",
+        "name": "Bleche",
+        "slug": "bleche",
+        "productCategory": "Bleche",
+        "subCategories": []
+    },
+    {
+        "key": "stangen",
+        "name": "Stangen",
+        "slug": "stangen",
+        "productCategory": "Stangen",
+        "subCategories": []
+    },
+    {
+        "key": "transporthilfen",
+        "name": "Transporthilfen",
+        "slug": "transporthilfen",
+        "productCategory": "Transporthilfen",
+        "subCategories": []
+    },
+    {
+        "key": "türbeschläge",
+        "name": "Türbeschläge",
+        "slug": "turbeschlage",
+        "productCategory": "Türbeschläge",
+        "subCategories": []
+    },
+    {
+        "key": "metrische-schrauben & zollschrauben",
+        "name": "Metrische-Schrauben & Zollschrauben",
+        "slug": "metrische-schrauben-zollschrauben",
+        "productCategory": "Metrische-Schrauben & Zollschrauben",
+        "subCategories": []
+    },
+    {
+        "key": "gewindeschrauben",
+        "name": "Gewindeschrauben",
+        "slug": "gewindeschrauben",
+        "productCategory": "Gewindeschrauben",
+        "subCategories": []
+    },
+    {
+        "key": "möbelgriffe & möbelknöpfe",
+        "name": "Möbelgriffe & Möbelknöpfe",
+        "slug": "mobelgriffe-mobelknopfe",
+        "productCategory": "Möbelgriffe & Möbelknöpfe",
+        "subCategories": []
+    },
+    {
+        "key": "möbelgleiter & oberflächenschutz",
+        "name": "Möbelgleiter & Oberflächenschutz",
+        "slug": "mobelgleiter-oberflachenschutz",
+        "productCategory": "Möbelgleiter & Oberflächenschutz",
+        "subCategories": []
+    },
+    {
+        "key": "bilderhaken & ösen",
+        "name": "Bilderhaken & Ösen",
+        "slug": "bilderhaken-osen",
+        "productCategory": "Bilderhaken & Ösen",
+        "subCategories": []
+    },
+    {
+        "key": "profile",
+        "name": "Profile",
+        "slug": "profile",
+        "productCategory": "Profile",
+        "subCategories": []
+    },
+    {
+        "key": "muttern",
+        "name": "Muttern",
+        "slug": "muttern",
+        "productCategory": "Muttern",
+        "subCategories": []
+    },
+    {
+        "key": "sicherungsmuttern",
+        "name": "Sicherungsmuttern",
+        "slug": "sicherungsmuttern",
+        "productCategory": "Sicherungsmuttern",
+        "subCategories": []
+    },
+    {
+        "key": "möbelschrauben",
+        "name": "Möbelschrauben",
+        "slug": "mobelschrauben",
+        "productCategory": "Möbelschrauben",
+        "subCategories": []
+    },
+    {
+        "key": "unterlegscheiben & ringe",
+        "name": "Unterlegscheiben & Ringe",
+        "slug": "unterlegscheiben-ringe",
+        "productCategory": "Unterlegscheiben & Ringe",
+        "subCategories": []
+    },
+    {
+        "key": "unterlegscheiben",
+        "name": "Unterlegscheiben",
+        "slug": "unterlegscheiben",
+        "productCategory": "Unterlegscheiben",
+        "subCategories": []
+    },
+    {
+        "key": "sturmhaken",
+        "name": "Sturmhaken",
+        "slug": "sturmhaken",
+        "productCategory": "Sturmhaken",
+        "subCategories": []
+    },
+    {
+        "key": "winkelhaken",
+        "name": "Winkelhaken",
+        "slug": "winkelhaken",
+        "productCategory": "Winkelhaken",
+        "subCategories": []
+    },
+    {
+        "key": "zaunbeschläge",
+        "name": "Zaunbeschläge",
+        "slug": "zaunbeschlage",
+        "productCategory": "Zaunbeschläge",
+        "subCategories": []
+    },
+    {
+        "key": "möbelbeschläge",
+        "name": "Möbelbeschläge",
+        "slug": "mobelbeschlage",
+        "productCategory": "Möbelbeschläge",
+        "subCategories": []
+    },
+    {
+        "key": "maschinenschrauben",
+        "name": "Maschinenschrauben",
+        "slug": "maschinenschrauben",
+        "productCategory": "Maschinenschrauben",
+        "subCategories": []
+    },
+    {
+        "key": "nägel-sets",
+        "name": "Nägel-Sets",
+        "slug": "nagel-sets",
+        "productCategory": "Nägel-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "holzschrauben-sets",
+        "name": "Holzschrauben-Sets",
+        "slug": "holzschrauben-sets",
+        "productCategory": "Holzschrauben-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "seile & ketten",
+        "name": "Seile & Ketten",
+        "slug": "seile-ketten",
+        "productCategory": "Seile & Ketten",
+        "subCategories": []
+    },
+    {
+        "key": "seile & schnüre",
+        "name": "Seile & Schnüre",
+        "slug": "seile-schnure",
+        "productCategory": "Seile & Schnüre",
+        "subCategories": []
+    },
+    {
+        "key": "weitere seile & schnüre",
+        "name": "Weitere Seile & Schnüre",
+        "slug": "weitere-seile-schnure",
+        "productCategory": "Weitere Seile & Schnüre",
+        "subCategories": []
+    },
+    {
+        "key": "deckenhaken",
+        "name": "Deckenhaken",
+        "slug": "deckenhaken",
+        "productCategory": "Deckenhaken",
+        "subCategories": []
+    },
+    {
+        "key": "möbelschlösser",
+        "name": "Möbelschlösser",
+        "slug": "mobelschlosser",
+        "productCategory": "Möbelschlösser",
+        "subCategories": []
+    },
+    {
+        "key": "schilder",
+        "name": "Schilder",
+        "slug": "schilder",
+        "productCategory": "Schilder",
+        "subCategories": []
+    },
+    {
+        "key": "torbeschläge",
+        "name": "Torbeschläge",
+        "slug": "torbeschlage",
+        "productCategory": "Torbeschläge",
+        "subCategories": []
+    },
+    {
+        "key": "kloben",
+        "name": "Kloben",
+        "slug": "kloben",
+        "productCategory": "Kloben",
+        "subCategories": []
+    },
+    {
+        "key": "scharniere & beschläge",
+        "name": "Scharniere & Beschläge",
+        "slug": "scharniere-beschlage",
+        "productCategory": "Scharniere & Beschläge",
+        "subCategories": []
+    },
+    {
+        "key": "scharniere",
+        "name": "Scharniere",
+        "slug": "scharniere",
+        "productCategory": "Scharniere",
+        "subCategories": []
+    },
+    {
+        "key": "bohrschrauben",
+        "name": "Bohrschrauben",
+        "slug": "bohrschrauben",
+        "productCategory": "Bohrschrauben",
+        "subCategories": []
+    },
+    {
+        "key": "haken- & ösen-sets",
+        "name": "Haken- & Ösen-Sets",
+        "slug": "haken-osen-sets",
+        "productCategory": "Haken- & Ösen-Sets",
+        "subCategories": []
+    },
+    {
+        "key": "schubkastenauszüge",
+        "name": "Schubkastenauszüge",
+        "slug": "schubkastenauszuge",
+        "productCategory": "Schubkastenauszüge",
+        "subCategories": []
+    },
+    {
+        "key": "schnellbauschrauben & trockenbauschrauben",
+        "name": "Schnellbauschrauben & Trockenbauschrauben",
+        "slug": "schnellbauschrauben-trockenbauschrauben",
+        "productCategory": "Schnellbauschrauben & Trockenbauschrauben",
         "subCategories": []
     }
 ]
