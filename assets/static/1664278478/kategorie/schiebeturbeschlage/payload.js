@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/schiebeturbeschlage", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/hettich-klappenbeschlaege-lift-junior-vernickelt-hettich-8842981-1.jpg":"\u002Fassets\u002Fimages\u002Fhettich-klappenbeschlaege-lift-junior-vernickelt-hettich-8842981-1.webp"}}],fetch:{},mutations:void 0});

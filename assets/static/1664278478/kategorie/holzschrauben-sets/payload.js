@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/holzschrauben-sets", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/spax-assorter-kreuzschlitz-z-gelb-spax-1868777-1.jpg":"\u002Fassets\u002Fimages\u002Fspax-assorter-kreuzschlitz-z-gelb-spax-1868777-1.webp"}}],fetch:{},mutations:void 0});

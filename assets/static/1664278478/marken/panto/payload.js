@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/panto", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/stoszgriff-set-aus-v2a-edelstahl-350-mm-panto-5843123-1.jpg":"\u002Fassets\u002Fimages\u002Fstoszgriff-set-aus-v2a-edelstahl-350-mm-panto-5843123-1.webp"}}],fetch:{},mutations:void 0});

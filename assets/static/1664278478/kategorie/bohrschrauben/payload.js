@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/bohrschrauben", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-senkkopf-bohrschraube-o-48-mm-x-22-mm-40-stueck-lux-tools-8689416-1.jpg":"\u002Fassets\u002Fimages\u002Flux-senkkopf-bohrschraube-o-48-mm-x-22-mm-40-stueck-lux-tools-8689416-1.webp"}}],fetch:{},mutations:void 0});

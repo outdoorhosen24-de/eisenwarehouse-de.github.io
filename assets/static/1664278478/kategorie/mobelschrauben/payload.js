@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/mobelschrauben", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/spax-senkkopf-moebelschraube-pz-antrieb-o-45-mm-x-35-mm-25-stueck-spax-1127927-1.jpg":"\u002Fassets\u002Fimages\u002Fspax-senkkopf-moebelschraube-pz-antrieb-o-45-mm-x-35-mm-25-stueck-spax-1127927-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/schnellbauschrauben-trockenbauschrauben", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/gix-typ-b-39-mm-x-30-mm-150-stueck-spax-4703005-1.jpg":"\u002Fassets\u002Fimages\u002Fgix-typ-b-39-mm-x-30-mm-150-stueck-spax-4703005-1.webp"}}],fetch:{},mutations:void 0});
