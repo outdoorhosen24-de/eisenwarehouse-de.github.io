@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/eurobox-system", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/eurobox-system-rollwagen-60-x-40-cm-blau-eurobox-system-1888379-1.jpg":"\u002Fassets\u002Fimages\u002Feurobox-system-rollwagen-60-x-40-cm-blau-eurobox-system-1888379-1.webp"}}],fetch:{},mutations:void 0});

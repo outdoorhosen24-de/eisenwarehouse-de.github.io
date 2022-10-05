@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/seile-schnure", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/seilklemme-verzinkt-4er-set-o-1-3-mm-lux-tools-1941996-1.jpg":"\u002Fassets\u002Fimages\u002Fseilklemme-verzinkt-4er-set-o-1-3-mm-lux-tools-1941996-1.webp"}}],fetch:{},mutations:void 0});

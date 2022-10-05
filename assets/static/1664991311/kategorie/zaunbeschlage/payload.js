@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/zaunbeschlage", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/flechtzaunband-38-mm-x-38-mm-x-30-mm-edelstahl-12-stueck-sonstige-6407746-1.jpg":"\u002Fassets\u002Fimages\u002Fflechtzaunband-38-mm-x-38-mm-x-30-mm-edelstahl-12-stueck-sonstige-6407746-1.webp"}}],fetch:{},mutations:void 0});

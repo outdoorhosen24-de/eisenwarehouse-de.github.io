@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/schubkastenauszuge", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/hettich-rollschubfuehrung-300-mm-stahl-pulverbeschichtet-weisz-hettich-1228428-1.jpg":"\u002Fassets\u002Fimages\u002Fhettich-rollschubfuehrung-300-mm-stahl-pulverbeschichtet-weisz-hettich-1228428-1.webp"}}],fetch:{},mutations:void 0});

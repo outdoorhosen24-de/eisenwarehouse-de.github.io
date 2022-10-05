@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/haken-osen-sets", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-haken-und-duebelsortiment-400-teilig-lux-tools-6404263-1.jpg":"\u002Fassets\u002Fimages\u002Flux-haken-und-duebelsortiment-400-teilig-lux-tools-6404263-1.webp"}}],fetch:{},mutations:void 0});
