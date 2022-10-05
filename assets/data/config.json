@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "eisenwarehouse.de",
+    "hostname": "https://www.eisenwarehouse.de/",
+    "email": "eisenwarehouse.desurrealnetworks.io",
+    "organization": "eisenwarehouse.de",
+    "logoText": "Eisenwarehouse.de",
+    "title": "Eisenwaren & Beschl\u00e4ge",
+    "subline": "Der Online Shop f\u00fcr Eisenwaren & Beschl\u00e4ge",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "4162525",
+        "2502946",
+        "4866257",
+        "5457304",
+        "1328079",
+        "3799400"
+    ],
+    "winnerProducts": [
+        "1644541",
+        "5310594",
+        "6700116"
+    ],
+    "featuredCategories": [
+        "Bilderhaken & \u00d6sen",
+        "Gewindestangen",
+        "Bleche",
+        "Seile & Schn\u00fcre",
+        "Rollen & R\u00e4der",
+        "Gewindeschrauben"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Eisenwaren & Beschl\u00e4ge",
-        "featureText": "Your featured text goes here",
+        "featureText": "Eisenwaren & Beschl\u00e4ge ist ein Gesch\u00e4ft, das sich auf Eisenwaren und Beschl\u00e4ge spezialisiert hat. Sie haben eine gro\u00dfe Auswahl an Eisenwaren und Beschl\u00e4gen zur Auswahl. Sie haben auch eine gro\u00dfe Auswahl an Werkzeugen und Zubeh\u00f6r.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Eisenwaren & Beschl\u00e4ge - Alles f\u00fcr Ihr Zuhause",
+            "metaDescription": "Eisenwaren & Beschl\u00e4ge - Hier finden Sie alles f\u00fcr Ihr Zuhause. Vom T\u00fcrgriff bis zum D\u00fcbel. Schnelle Lieferung und kompetente Beratung.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Eisenwaren & Beschl\u00e4ge - Alles f\u00fcr Ihr Zuhause",
+                    "text": "Eisenwaren und Beschl\u00e4ge sind ein wesentlicher Bestandteil der Bauindustrie. Sie dienen zur Herstellung von Bauteilen wie T\u00fcren, Fenstern, Treppen, Gel\u00e4ndern und vielem mehr. Eisenwaren und Beschl\u00e4ge sind aus verschiedenen Metallen wie Eisen, Stahl, Kupfer, Messing und Bronze gefertigt. Die Wahl des richtigen Materials ist abh\u00e4ngig von der Art des zu produzierenden Bauteils und den Anforderungen an die Haltbarkeit und Robustheit.\n\nEisenwaren und Beschl\u00e4ge m\u00fcssen h\u00e4ufig in Kombination mit anderen Materialien wie Holz, Glas oder Kunststoff verwendet werden. Die Verbindung dieser verschiedenen Materialien erfordert eine sorgf\u00e4ltige Planung und Ausf\u00fchrung, damit das Endergebnis stabil und optisch ansprechend ist.\n\nEisenwaren und Beschl\u00e4ge sind in vielen verschiedenen Formen, Gr\u00f6\u00dfen und Ausf\u00fchrungen erh\u00e4ltlich. Die Auswahl des richtigen Produkts ist abh\u00e4ngig von der Art des zu produzierenden Bauteils und den Anforderungen an die Haltbarkeit und Robustheit.\n\nEisenwaren und Beschl\u00e4ge sind ein wesentlicher Bestandteil der Bauindustrie. Sie dienen zur Herstellung von Bauteilen wie T\u00fcren, Fenstern, Treppen, Gel\u00e4ndern und vielem mehr. Eisenwaren und Beschl\u00e4ge sind aus verschiedenen Metallen wie Eisen, Stahl, Kupfer, Messing und Bronze gefertigt. Die Wahl des richtigen Materials ist abh\u00e4ngig von der Art des zu produzierenden Bauteils und den Anforderung"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Eisenwaren & Beschl\u00e4ge shop",
+            "metaDescription": "Eisenwaren & Beschl\u00e4ge Shop - alles f\u00fcr Ihr Zuhause. Beschl\u00e4ge, Eisenwaren, T\u00fcren, Fenster, Treppen, Gel\u00e4nder und vieles mehr.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Hersteller von Eisenwaren & Beschl\u00e4gen",
+            "metaDescription": "Eisenwaren & Beschl\u00e4ge - Finden Sie hier die passenden Manufacturer f\u00fcr Ihren Bedarf. Schnell und einfach die richtige Wahl treffen!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT - Eisenwaren & Beschl\u00e4ge",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Eisenwaren & Beschl\u00e4ge f\u00fcr Heimwerker. Kaufen Sie online bei $KATEGORIE und profitieren Sie von schnellem Versand.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Eisenwaren & Beschl\u00e4ge: $KATEGORIE",
+        "defaultMetaDescription": "Eisenwaren & Beschl\u00e4ge - Finde alles f\u00fcr dein Zuhause bei $KATEGORIE. Riesige Auswahl, Top-Preise & kostenloser Versand!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Partner f\u00fcr Eisenwaren und Beschl\u00e4ge. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Eisenwaren & Beschl\u00e4ge",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Eisenwaren & Beschl\u00e4ge Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Eisenwaren & Beschl\u00e4ge Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
