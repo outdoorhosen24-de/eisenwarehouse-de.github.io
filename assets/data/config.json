@@ -51,12 +51,15 @@
             "title": "Eisenwaren & Beschläge - Alles für Ihr Zuhause",
             "metaDescription": "Eisenwaren & Beschläge - Hier finden Sie alles für Ihr Zuhause. Vom Türgriff bis zum Dübel. Schnelle Lieferung und kompetente Beratung.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Eisenwaren & Beschläge - Alles für Ihr Zuhause",
-                    "text": "Eisenwaren und Beschläge sind ein wesentlicher Bestandteil der Bauindustrie. Sie dienen zur Herstellung von Bauteilen wie Türen, Fenstern, Treppen, Geländern und vielem mehr. Eisenwaren und Beschläge sind aus verschiedenen Metallen wie Eisen, Stahl, Kupfer, Messing und Bronze gefertigt. Die Wahl des richtigen Materials ist abhängig von der Art des zu produzierenden Bauteils und den Anforderungen an die Haltbarkeit und Robustheit.\n\nEisenwaren und Beschläge müssen häufig in Kombination mit anderen Materialien wie Holz, Glas oder Kunststoff verwendet werden. Die Verbindung dieser verschiedenen Materialien erfordert eine sorgfältige Planung und Ausführung, damit das Endergebnis stabil und optisch ansprechend ist.\n\nEisenwaren und Beschläge sind in vielen verschiedenen Formen, Größen und Ausführungen erhältlich. Die Auswahl des richtigen Produkts ist abhängig von der Art des zu produzierenden Bauteils und den Anforderungen an die Haltbarkeit und Robustheit.\n\nEisenwaren und Beschläge sind ein wesentlicher Bestandteil der Bauindustrie. Sie dienen zur Herstellung von Bauteilen wie Türen, Fenstern, Treppen, Geländern und vielem mehr. Eisenwaren und Beschläge sind aus verschiedenen Metallen wie Eisen, Stahl, Kupfer, Messing und Bronze gefertigt. Die Wahl des richtigen Materials ist abhängig von der Art des zu produzierenden Bauteils und den Anforderung"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Eisenwaren & Beschläge - Alles für Ihr Zuhause",
+                        "text": "Eisenwaren und Beschläge sind ein wesentlicher Bestandteil der Bauindustrie. Sie dienen zur Herstellung von Bauteilen wie Türen, Fenstern, Treppen, Geländern und vielem mehr. Eisenwaren und Beschläge sind aus verschiedenen Metallen wie Eisen, Stahl, Kupfer, Messing und Bronze gefertigt. Die Wahl des richtigen Materials ist abhängig von der Art des zu produzierenden Bauteils und den Anforderungen an die Haltbarkeit und Robustheit.\n\nEisenwaren und Beschläge müssen häufig in Kombination mit anderen Materialien wie Holz, Glas oder Kunststoff verwendet werden. Die Verbindung dieser verschiedenen Materialien erfordert eine sorgfältige Planung und Ausführung, damit das Endergebnis stabil und optisch ansprechend ist.\n\nEisenwaren und Beschläge sind in vielen verschiedenen Formen, Größen und Ausführungen erhältlich. Die Auswahl des richtigen Produkts ist abhängig von der Art des zu produzierenden Bauteils und den Anforderungen an die Haltbarkeit und Robustheit.\n\nEisenwaren und Beschläge sind ein wesentlicher Bestandteil der Bauindustrie. Sie dienen zur Herstellung von Bauteilen wie Türen, Fenstern, Treppen, Geländern und vielem mehr. Eisenwaren und Beschläge sind aus verschiedenen Metallen wie Eisen, Stahl, Kupfer, Messing und Bronze gefertigt. Die Wahl des richtigen Materials ist abhängig von der Art des zu produzierenden Bauteils und den Anforderung"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Eisenwaren & Beschläge shop",
