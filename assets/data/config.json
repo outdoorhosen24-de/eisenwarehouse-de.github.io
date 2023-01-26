@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "eisenwarehouse.de",
     "hostname": "https://www.eisenwarehouse.de/",
     "email": "eisenwarehouse.de@surrealnetworks.io",
     "organization": "eisenwarehouse.de",
     "logoText": "Eisenwarehouse.de",
     "title": "Eisenwaren & Beschläge",
-    "subline": "Der Online Shop für Eisenwaren & Beschläge",
+    "subline": "Der Online Shop für Handwerker",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Eisenwaren & Beschläge",
-        "featureText": "Eisenwaren & Beschläge ist ein Geschäft, das sich auf Eisenwaren und Beschläge spezialisiert hat. Sie haben eine große Auswahl an Eisenwaren und Beschlägen zur Auswahl. Sie haben auch eine große Auswahl an Werkzeugen und Zubehör.",
+        "featureText": "Willkommen in unserem Shop. Wir sind Spezialisten auf dem Gebiet der Eisenwaren und Beschläge. Nach Kategorien geordnet finden Sie hier eine Zusammenstellung qualitativ hochwertiger Produkte. Darüber hinaus finden Sie eine Liste mit allen Marken, die wir führen. So wird Ihnen die Suche nach dem passenden Produkt erleichtert! Wir laden Sie ein, sich durch unser Sortiment zu klicken. Wir wünschen Ihnen viel Spaß!",
         "index": {
-            "title": "Eisenwaren & Beschläge - Alles für Ihr Zuhause",
-            "metaDescription": "Eisenwaren & Beschläge - Hier finden Sie alles für Ihr Zuhause. Vom Türgriff bis zum Dübel. Schnelle Lieferung und kompetente Beratung.",
+            "title": "Einfach und günstig Eisenwaren & Beschläge bestellen",
+            "metaDescription": "Große Auswahl an Eisenwaren & Beschläge - Ob Schrauben, Dübel, Bleche, Stangen, Haken & Ösen, Beschläge, Bodenhülsen etc., hier finden Sie alles!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Eisenwaren & Beschläge shop",
-            "metaDescription": "Eisenwaren & Beschläge Shop - alles für Ihr Zuhause. Beschläge, Eisenwaren, Türen, Fenster, Treppen, Geländer und vieles mehr.",
+            "title": "Der Online Shop für Eisenwaren & Beschläge",
+            "metaDescription": "Breites Sortiment an Eisenwaren & Beschläge. Bestellen Sie jetzt günstig und bequem von zu Hause. Schnelle Lieferung von Schrauben, Dübel, Bleche, Stangen uvm. ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Hersteller von Eisenwaren & Beschlägen",
-            "metaDescription": "Eisenwaren & Beschläge - Finden Sie hier die passenden Manufacturer für Ihren Bedarf. Schnell und einfach die richtige Wahl treffen!",
+            "title": "Eisenwaren & Beschläge | Auflistung von Herstellern",
+            "metaDescription": "Marktführende Hersteller für Eisenwaren & Beschläge. Bei uns finden Sie Produkte von Marken wie: Fischer, Spax, Burg Wächter, Hettich, LUX-TOOLS uvm. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT - Eisenwaren & Beschläge",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Eisenwaren & Beschläge für Heimwerker. Kaufen Sie online bei $KATEGORIE und profitieren Sie von schnellem Versand.",
+        "defaultTitle": "$PRODUKT - eine gute Wahl ",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Eisenwaren & Beschläge zu Top Preisen. Finden Sie weitere hochwertige Produkte in der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Eisenwaren & Beschläge: $KATEGORIE",
-        "defaultMetaDescription": "Eisenwaren & Beschläge - Finde alles für dein Zuhause bei $KATEGORIE. Riesige Auswahl, Top-Preise & kostenloser Versand!",
+        "defaultTitle": "$KATEGORIE | Eisenwaren & Beschläge",
+        "defaultMetaDescription": "Eisenwaren & Beschläge - Finden Sie alles für Ihr Projekt in der Kategorie $KATEGORIE. Riesige Auswahl, Top-Preise & schneller Versand!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Partner für Eisenwaren und Beschläge. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu fairen Preisen.",
+        "defaultTitle": "$HERSTELLER - Markenprodukte zu Top Preisen",
+        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller für Eisenwaren und Beschläge. Überzeugen Sie sich von der Qualität unserer Produkte.",
         "defaultRobots": "index, follow",
         "brands": [
             {
