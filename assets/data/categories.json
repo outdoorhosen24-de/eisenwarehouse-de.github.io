@@ -2,28 +2,28 @@
     {
         "key": "beschläge",
         "name": "Beschläge",
-        "slug": "beschlage",
+        "slug": "beschlaege",
         "productCategory": "Beschläge",
         "subCategories": []
     },
     {
         "key": "baubeschläge",
         "name": "Baubeschläge",
-        "slug": "baubeschlage",
+        "slug": "baubeschlaege",
         "productCategory": "Baubeschläge",
         "subCategories": []
     },
     {
         "key": "pfostenträger & bodenhülsen",
         "name": "Pfostenträger & Bodenhülsen",
-        "slug": "pfostentrager-bodenhulsen",
+        "slug": "pfostentraeger-bodenhuelsen",
         "productCategory": "Pfostenträger & Bodenhülsen",
         "subCategories": []
     },
     {
         "key": "haken & ösen",
         "name": "Haken & Ösen",
-        "slug": "haken-osen",
+        "slug": "haken-oesen",
         "productCategory": "Haken & Ösen",
         "subCategories": []
     },
@@ -79,21 +79,21 @@
     {
         "key": "möbeltechnik",
         "name": "Möbeltechnik",
-        "slug": "mobeltechnik",
+        "slug": "moebeltechnik",
         "productCategory": "Möbeltechnik",
         "subCategories": []
     },
     {
         "key": "möbelausstattung",
         "name": "Möbelausstattung",
-        "slug": "mobelausstattung",
+        "slug": "moebelausstattung",
         "productCategory": "Möbelausstattung",
         "subCategories": []
     },
     {
         "key": "dübel",
         "name": "Dübel",
-        "slug": "dubel",
+        "slug": "duebel",
         "productCategory": "Dübel",
         "subCategories": []
     },
@@ -128,28 +128,28 @@
     {
         "key": "rollen & räder",
         "name": "Rollen & Räder",
-        "slug": "rollen-rader",
+        "slug": "rollen-raeder",
         "productCategory": "Rollen & Räder",
         "subCategories": []
     },
     {
         "key": "schiebetürbeschläge",
         "name": "Schiebetürbeschläge",
-        "slug": "schiebeturbeschlage",
+        "slug": "schiebetuerbeschlaege",
         "productCategory": "Schiebetürbeschläge",
         "subCategories": []
     },
     {
         "key": "briefkästen",
         "name": "Briefkästen",
-        "slug": "briefkasten",
+        "slug": "briefkaesten",
         "productCategory": "Briefkästen",
         "subCategories": []
     },
     {
         "key": "möbelbeine",
         "name": "Möbelbeine",
-        "slug": "mobelbeine",
+        "slug": "moebelbeine",
         "productCategory": "Möbelbeine",
         "subCategories": []
     },
@@ -184,7 +184,7 @@
     {
         "key": "türbeschläge",
         "name": "Türbeschläge",
-        "slug": "turbeschlage",
+        "slug": "tuerbeschlaege",
         "productCategory": "Türbeschläge",
         "subCategories": []
     },
@@ -205,21 +205,21 @@
     {
         "key": "möbelgriffe & möbelknöpfe",
         "name": "Möbelgriffe & Möbelknöpfe",
-        "slug": "mobelgriffe-mobelknopfe",
+        "slug": "moebelgriffe-moebelknoepfe",
         "productCategory": "Möbelgriffe & Möbelknöpfe",
         "subCategories": []
     },
     {
         "key": "möbelgleiter & oberflächenschutz",
         "name": "Möbelgleiter & Oberflächenschutz",
-        "slug": "mobelgleiter-oberflachenschutz",
+        "slug": "moebelgleiter-oberflaechenschutz",
         "productCategory": "Möbelgleiter & Oberflächenschutz",
         "subCategories": []
     },
     {
         "key": "bilderhaken & ösen",
         "name": "Bilderhaken & Ösen",
-        "slug": "bilderhaken-osen",
+        "slug": "bilderhaken-oesen",
         "productCategory": "Bilderhaken & Ösen",
         "subCategories": []
     },
@@ -247,7 +247,7 @@
     {
         "key": "möbelschrauben",
         "name": "Möbelschrauben",
-        "slug": "mobelschrauben",
+        "slug": "moebelschrauben",
         "productCategory": "Möbelschrauben",
         "subCategories": []
     },
@@ -282,14 +282,14 @@
     {
         "key": "zaunbeschläge",
         "name": "Zaunbeschläge",
-        "slug": "zaunbeschlage",
+        "slug": "zaunbeschlaege",
         "productCategory": "Zaunbeschläge",
         "subCategories": []
     },
     {
         "key": "möbelbeschläge",
         "name": "Möbelbeschläge",
-        "slug": "mobelbeschlage",
+        "slug": "moebelbeschlaege",
         "productCategory": "Möbelbeschläge",
         "subCategories": []
     },
@@ -303,7 +303,7 @@
     {
         "key": "nägel-sets",
         "name": "Nägel-Sets",
-        "slug": "nagel-sets",
+        "slug": "naegel-sets",
         "productCategory": "Nägel-Sets",
         "subCategories": []
     },
@@ -324,14 +324,14 @@
     {
         "key": "seile & schnüre",
         "name": "Seile & Schnüre",
-        "slug": "seile-schnure",
+        "slug": "seile-schnuere",
         "productCategory": "Seile & Schnüre",
         "subCategories": []
     },
     {
         "key": "weitere seile & schnüre",
         "name": "Weitere Seile & Schnüre",
-        "slug": "weitere-seile-schnure",
+        "slug": "weitere-seile-schnuere",
         "productCategory": "Weitere Seile & Schnüre",
         "subCategories": []
     },
@@ -345,7 +345,7 @@
     {
         "key": "möbelschlösser",
         "name": "Möbelschlösser",
-        "slug": "mobelschlosser",
+        "slug": "moebelschloesser",
         "productCategory": "Möbelschlösser",
         "subCategories": []
     },
@@ -359,7 +359,7 @@
     {
         "key": "torbeschläge",
         "name": "Torbeschläge",
-        "slug": "torbeschlage",
+        "slug": "torbeschlaege",
         "productCategory": "Torbeschläge",
         "subCategories": []
     },
@@ -373,7 +373,7 @@
     {
         "key": "scharniere & beschläge",
         "name": "Scharniere & Beschläge",
-        "slug": "scharniere-beschlage",
+        "slug": "scharniere-beschlaege",
         "productCategory": "Scharniere & Beschläge",
         "subCategories": []
     },
@@ -394,14 +394,14 @@
     {
         "key": "haken- & ösen-sets",
         "name": "Haken- & Ösen-Sets",
-        "slug": "haken-osen-sets",
+        "slug": "haken-oesen-sets",
         "productCategory": "Haken- & Ösen-Sets",
         "subCategories": []
     },
     {
         "key": "schubkastenauszüge",
         "name": "Schubkastenauszüge",
-        "slug": "schubkastenauszuge",
+        "slug": "schubkastenauszuege",
         "productCategory": "Schubkastenauszüge",
         "subCategories": []
     },
