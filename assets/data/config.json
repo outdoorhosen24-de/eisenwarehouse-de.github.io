@@ -1,400 +1,403 @@
 {
-    "configIsReady": true,
-    "domain": "eisenwarehouse.de",
-    "hostname": "https://www.eisenwarehouse.de/",
-    "email": "eisenwarehouse.de@surrealnetworks.io",
-    "organization": "eisenwarehouse.de",
-    "logoText": "Eisenwarehouse.de",
-    "title": "Eisenwaren & Beschläge",
-    "subline": "Der Online Shop für Handwerker",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "4162525",
-        "2502946",
-        "4866257",
-        "5457304",
-        "1328079",
-        "3799400"
-    ],
-    "winnerProducts": [
-        "1644541",
-        "5310594",
-        "6700116"
-    ],
-    "featuredCategories": [
-        "Bilderhaken & Ösen",
-        "Gewindestangen",
-        "Bleche",
-        "Seile & Schnüre",
-        "Rollen & Räder",
-        "Gewindeschrauben"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Eisenwaren & Beschläge",
-        "featureText": "Willkommen in unserem Shop. Wir sind Spezialisten auf dem Gebiet der Eisenwaren und Beschläge. Nach Kategorien geordnet finden Sie hier eine Zusammenstellung qualitativ hochwertiger Produkte. Darüber hinaus finden Sie eine Liste mit allen Marken, die wir führen. So wird Ihnen die Suche nach dem passenden Produkt erleichtert! Wir laden Sie ein, sich durch unser Sortiment zu klicken. Wir wünschen Ihnen viel Spaß!",
-        "index": {
-            "title": "Einfach und günstig Eisenwaren & Beschläge bestellen",
-            "metaDescription": "Große Auswahl an Eisenwaren & Beschläge - Ob Schrauben, Dübel, Bleche, Stangen, Haken & Ösen, Beschläge, Bodenhülsen etc., hier finden Sie alles!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Eisenwarehouse",
-                        "text": "Herzlich Willkommen auf Eisenwarehouse, Ihrem Online-Shop für hochwertige Eisenwaren & Beschläge. Wir bieten Ihnen eine breite Auswahl an Produkten für den Bau und die Renovierung Ihres Zuhauses oder Ihres Geschäfts. Von Baubeschlägen über Pfostenträger & Bodenhülsen bis hin zu Schrauben und Holzverbindern haben wir alles, was Sie benötigen. Unsere Produkte sind von höchster Qualität und werden Ihnen eine lange Lebensdauer und Zuverlässigkeit garantieren. Wir sind stolz darauf, Ihnen einen hervorragenden Kundenservice und eine einfache Navigation durch unsere Kategorien zu bieten. Stöbern Sie jetzt durch unsere Kategorien, um die perfekten Eisenwaren & Beschläge für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Beschläge",
-                        "text": "Entdecken Sie unsere große Auswahl an hochwertigen <a href=\"/kategorie/beschlaege/\" title=\"Beschläge\">Beschläge</a>n. Von Türbeschlägen bis hin zu Fensterbeschlägen finden Sie bei uns alles, was Sie für Ihr Zuhause oder Geschäft benötigen. Unsere Beschläge sind langlebig und sorgen für eine sichere Funktionalität. Wir bieten Ihnen eine breite Auswahl an Stilen und Finishes, um Ihren persönlichen Geschmack zu treffen."
-                    },
-                    {
-                        "title": "Baubeschläge",
-                        "text": "Unser Angebot an <a href=\"/kategorie/baubeschlaege/\" title=\"Baubeschläge\">Baubeschläge</a>n umfasst alles, was Sie für Ihr Bauprojekt benötigen. Von Pfostenträgern bis hin zu Verbindern finden Sie bei uns eine breite Auswahl an hochwertigen Baubeschlägen. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Stöbern Sie jetzt durch unsere Baubeschläge-Kategorie, um das perfekte Produkt für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Pfostenträger & Bodenhülsen",
-                        "text": "Unsere <a href=\"/kategorie/pfostentraeger-bodenhuelsen/\" title=\"Pfostenträger & Bodenhülsen\">Pfostenträger & Bodenhülsen</a> sind die perfekte Lösung für Ihr Bauprojekt. Diese robusten und langlebigen Produkte sorgen für eine sichere Befestigung von Pfosten und tragen zur Stabilität Ihres Bauprojekts bei. Wir bieten Ihnen eine breite Auswahl an Größen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Pfostenträger & Bodenhülsen-Kategorie."
-                    },
-                    {
-                        "title": "Haken & Ösen",
-                        "text": "Entdecken Sie bei Eisenwarehouse unsere große Auswahl an hochwertigen <a href=\"/kategorie/haken-oesen/\" title=\"Haken & Ösen\">Haken & Ösen</a>. Unsere Produkte sind aus robusten Materialien gefertigt und bieten eine sichere Befestigung für Ihre Gegenstände. Ob für den Innen- oder Außenbereich, wir haben die perfekte Lösung für Sie. Wählen Sie aus einer Vielzahl an Stilen und Finishes, um Ihren persönlichen Geschmack zu treffen."
-                    },
-                    {
-                        "title": "Wandhaken",
-                        "text": "Unsere <a href=\"/kategorie/wandhaken/\" title=\"Wandhaken\">Wandhaken</a> bieten Ihnen eine praktische Lösung für das Aufhängen von Gegenständen an Ihren Wänden. Ob für Jacken, Handtücher oder andere Gegenstände, unsere Wandhaken sind robust und langlebig. Wir bieten Ihnen eine breite Auswahl an Stilen und Finishes, um Ihren persönlichen Geschmack zu treffen. Entdecken Sie jetzt unsere Wandhaken-Kategorie."
-                    },
-                    {
-                        "title": "Schrauben",
-                        "text": "Unsere <a href=\"/kategorie/schrauben/\" title=\"Schrauben\">Schrauben</a> sind die perfekte Lösung für Ihre Befestigungsbedürfnisse. Von Holzschrauben bis hin zu Terrassenschrauben bieten wir Ihnen eine breite Auswahl an hochwertigen Schrauben. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere Schrauben-Kategorie, um das perfekte Produkt für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Holzschrauben & Holzbauschrauben",
-                        "text": "Entdecken Sie bei Eisenwarehouse unsere große Auswahl an <a href=\"/kategorie/holzschrauben-holzbauschrauben/\" title=\"Holzschrauben & Holzbauschrauben\">Holzschrauben & Holzbauschrauben</a>. Diese robusten und langlebigen Schrauben eignen sich perfekt für Holzbauprojekte. Wir bieten Ihnen eine breite Auswahl an Größen und Materialien, um Ihren Anforderungen gerecht zu werden. Stöbern Sie jetzt durch unsere Holzschrauben & Holzbauschrauben-Kategorie, um das perfekte Produkt für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Terrassenschrauben",
-                        "text": "Unsere <a href=\"/kategorie/terrassenschrauben/\" title=\"Terrassenschrauben\">Terrassenschrauben</a> sind die perfekte Lösung für Ihre Terrassenbauprojekte. Diese robusten und langlebigen Schrauben sorgen für eine sichere Befestigung Ihrer Terrassenbretter. Wir bieten Ihnen eine breite Auswahl an Größen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Terrassenschrauben-Kategorie."
-                    },
-                    {
-                        "title": "Winkel & Holzverbinder",
-                        "text": "Unsere <a href=\"/kategorie/winkel-holzverbinder/\" title=\"Winkel & Holzverbinder\">Winkel & Holzverbinder</a> bieten Ihnen eine praktische Lösung für Ihre Holzbauprojekte. Diese robusten und langlebigen Produkte sorgen für eine sichere Verbindung von Holzteilen. Wir bieten Ihnen eine breite Auswahl an Größen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Winkel & Holzverbinder-Kategorie."
-                    },
-                    {
-                        "title": "Gewindestangen",
-                        "text": "Entdecken Sie bei Eisenwarehouse unsere große Auswahl an hochwertigen <a href=\"/kategorie/gewindestangen/\" title=\"Gewindestangen\">Gewindestangen</a>. Diese robusten und langlebigen Stangen eignen sich perfekt für Ihre Befestigungsbedürfnisse. Wir bieten Ihnen eine breite Auswahl an Größen und Materialien, um Ihren Anforderungen gerecht zu werden. Stöbern Sie jetzt durch unsere Gewindestangen-Kategorie, um das perfekte Produkt für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Spanplattenschrauben & Universalschrauben",
-                        "text": "Unsere <a href=\"/kategorie/spanplattenschrauben-universalschrauben/\" title=\"Spanplattenschrauben & Universalschrauben\">Spanplattenschrauben & Universalschrauben</a> bieten Ihnen eine praktische Lösung für Ihre Befestigungsbedürfnisse. Diese robusten und langlebigen Schrauben eignen sich perfekt für eine Vielzahl von Anwendungen. Wir bieten Ihnen eine breite Auswahl an Größen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Spanplattenschrauben & Universalschrauben-Kategorie."
-                    },
-                    {
-                        "title": "Möbeltechnik",
-                        "text": "Unsere <a href=\"/kategorie/moebeltechnik/\" title=\"Möbeltechnik\">Möbeltechnik</a> bietet Ihnen alles, was Sie für die Montage und Renovierung Ihrer Möbel benötigen. Von Scharnieren bis hin zu Schubladenführungen finden Sie bei uns eine breite Auswahl an hochwertigen Möbeltechnik-Produkten. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere Möbeltechnik-Kategorie."
-                    },
-                    {
-                        "title": "Möbelausstattung",
-                        "text": "Entdecken Sie bei Eisenwarehouse unsere große Auswahl an hochwertigen <a href=\"/kategorie/moebelausstattung/\" title=\"Möbelausstattung\">Möbelausstattung</a>en. Von Scharnieren bis hin zu Schubladenführungen bieten wir Ihnen alles, was Sie für die Montage und Renovierung Ihrer Möbel benötigen. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Stöbern Sie jetzt durch unsere Möbelausstattung-Kategorie, um das perfekte Produkt für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Dübel",
-                        "text": "Unsere <a href=\"/kategorie/duebel/\" title=\"Dübel\">Dübel</a> bieten Ihnen eine sichere und zuverlässige Befestigung für Ihre Gegenstände. Ob für den Innen- oder Außenbereich, wir haben die perfekte Lösung für Sie. Alle unsere Dübel sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere Dübel-Kategorie."
-                    },
-                    {
-                        "title": "Blechschrauben & Bohrschrauben",
-                        "text": "Unsere <a href=\"/kategorie/blechschrauben-bohrschrauben/\" title=\"Blechschrauben & Bohrschrauben\">Blechschrauben & Bohrschrauben</a> bieten Ihnen eine praktische Lösung für Ihre Befestigungsbedürfnisse. Diese robusten und langlebigen Schrauben eignen sich perfekt für den Einsatz auf Blech- und Holzmaterialien. Wir bieten Ihnen eine breite Auswahl an Größen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Blechschrauben & Bohrschrauben-Kategorie."
-                    },
-                    {
-                        "title": "Blechschrauben & Bohrschrauben-Sets",
-                        "text": "Entdecken Sie bei Eisenwarehouse unsere große Auswahl an <a href=\"/kategorie/blechschrauben-bohrschrauben-sets/\" title=\"Blechschrauben & Bohrschrauben-Sets\">Blechschrauben & Bohrschrauben-Sets</a>. Diese praktischen Sets bieten Ihnen alles, was Sie für Ihre Befestigungsbedürfnisse benötigen. Alle Schrauben sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Stöbern Sie jetzt durch unsere Blechschrauben & Bohrschrauben-Sets-Kategorie, um das perfekte Set für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Kleineisenwaren-Sets",
-                        "text": "Unsere <a href=\"/kategorie/kleineisenwaren-sets/\" title=\"Kleineisenwaren-Sets\">Kleineisenwaren-Sets</a> bieten Ihnen eine praktische und kosteneffiziente Lösung für Ihre Befestigungsbedürfnisse. Diese Sets enthalten eine Vielzahl an Kleineisenwaren, wie Haken, Ösen und Schrauben. Alle Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere Kleineisenwaren-Sets-Kategorie."
-                    },
-                    {
-                        "title": "Metrische-Schrauben-Sets",
-                        "text": "Unsere <a href=\"/kategorie/metrische-schrauben-sets/\" title=\"Metrische-Schrauben-Sets\">Metrische-Schrauben-Sets</a> bieten Ihnen alles, was Sie für Ihre Befestigungsbedürfnisse benötigen. Diese praktischen Sets enthalten eine Vielzahl an metrischen Schrauben in verschiedenen Größen und Materialien. Alle Schrauben sind robust und langlebig. Entdecken Sie jetzt unsere Metrische-Schrauben-Sets-Kategorie, um das perfekte Set für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Rollen & Räder",
-                        "text": "Entdecken Sie bei Eisenwarehouse eine große Auswahl an <a href=\"/kategorie/rollen-raeder/\" title=\"Rollen & Räder\">Rollen & Räder</a>n für Ihre Möbel und Geräte. Unsere Rollen & Räder sind aus robusten Materialien gefertigt und bieten eine hohe Belastbarkeit. Mit unseren Rollen & Rädern können Sie Ihre Möbel und Geräte mühelos bewegen und verschieben. Stöbern Sie jetzt durch unsere Rollen & Räder-Kategorie, um das perfekte Set für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Schiebetürbeschläge",
-                        "text": "Entdecken Sie bei Eisenwarehouse eine große Auswahl an <a href=\"/kategorie/schiebetuerbeschlaege/\" title=\"Schiebetürbeschläge\">Schiebetürbeschläge</a>n. Unsere Schiebetürbeschläge sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Schiebetürbeschlägen können Sie Ihre Schiebetüren einfach und sicher befestigen. Stöbern Sie jetzt durch unsere Schiebetürbeschläge-Kategorie, um das perfekte Set für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Briefkästen",
-                        "text": "Entdecken Sie bei Eisenwarehouse eine große Auswahl an <a href=\"/kategorie/briefkaesten/\" title=\"Briefkästen\">Briefkästen</a> für Ihr Zuhause oder Büro. Unsere Briefkästen sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Briefkästen können Sie Ihre Post sicher und bequem aufbewahren. Stöbern Sie jetzt durch unsere Briefkästen-Kategorie, um den perfekten Briefkasten für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Möbelbeine",
-                        "text": "Entdecken Sie bei Eisenwarehouse eine große Auswahl an <a href=\"/kategorie/moebelbeine/\" title=\"Möbelbeine\">Möbelbeine</a>n. Unsere Möbelbeine sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Möbelbeinen können Sie Ihre Möbel einfach und stilvoll aufwerten. Stöbern Sie jetzt durch unsere Möbelbein-Kategorie, um die perfekten Beine für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Profile & Bleche",
-                        "text": "Entdecken Sie bei Eisenwarehouse eine große Auswahl an Profilen & Blechen. Unsere <a href=\"/kategorie/profile-bleche/\" title=\"Profile & Bleche\">Profile & Bleche</a> sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Profilen & Blechen können Sie Ihre Projekte einfach und sicher realisieren. Stöbern Sie jetzt durch unsere Profile & Bleche-Kategorie, um die perfekten Profile & Bleche für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Bleche",
-                        "text": "Entdecken Sie bei Eisenwarehouse eine große Auswahl an <a href=\"/kategorie/bleche/\" title=\"Bleche\">Bleche</a>n. Unsere Bleche sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Blechen können Sie Ihre Projekte einfach und sicher realisieren. Stöbern Sie jetzt durch unsere Blech-Kategorie, um das perfekte Blech für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Stangen",
-                        "text": "Entdecken Sie unser breites Angebot an <a href=\"/kategorie/stangen/\" title=\"Stangen\">Stangen</a> im Eisenwaren & Beschläge Online-Shop bei Eisenwarehouse.de. Wir bieten Ihnen eine große Auswahl an verschiedenen Stangen in unterschiedlichen Größen und Materialien, damit Sie für jedes Projekt die passenden Stangen finden. Von Edelstahlstangen bis hin zu Aluminiumstangen haben wir alles, was Sie brauchen. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre Stangen."
-                    },
-                    {
-                        "title": "Transporthilfen",
-                        "text": "Bei Eisenwarehouse.de finden Sie alles, was Sie für den Transport Ihrer Waren benötigen. Unser Sortiment an <a href=\"/kategorie/transporthilfen/\" title=\"Transporthilfen\">Transporthilfen</a> bietet Ihnen eine große Auswahl an praktischen Lösungen für jeden Bedarf. Von Handwagen und Sackkarren bis hin zu Gabelstaplern und Hubwagen - wir haben alles, was Sie brauchen. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre Transporthilfen."
-                    },
-                    {
-                        "title": "Türbeschläge",
-                        "text": "Verleihen Sie Ihren Türen mit den <a href=\"/kategorie/tuerbeschlaege/\" title=\"Türbeschläge\">Türbeschläge</a>n von Eisenwarehouse.de das gewisse Extra. Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Türbeschlägen in verschiedenen Designs und Materialien. Von Edelstahltürbeschlägen bis hin zu Türbeschlägen aus Messing - wir haben alles, was Sie brauchen. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre Türbeschläge."
-                    },
-                    {
-                        "title": "Metrische-Schrauben & Zollschrauben",
-                        "text": "Entdecken Sie unser breites Sortiment an metrischen Schrauben und Zollschrauben. Unsere Schrauben sind in verschiedenen Größen und Materialien erhältlich, um jeden Bedarf zu erfüllen. Wir bieten robuste und langlebige Schrauben, die für alle Arten von Projekten geeignet sind. Mit uns finden Sie garantiert die richtigen Schrauben für Ihre Anwendungen. Stöbern Sie jetzt in unserem Online-Shop und bestellen Sie noch heute Ihre Schrauben bequem von zu Hause aus."
-                    },
-                    {
-                        "title": "Gewindeschrauben",
-                        "text": "Wir bieten eine breite Auswahl an <a href=\"/kategorie/gewindeschrauben/\" title=\"Gewindeschrauben\">Gewindeschrauben</a>, die für eine Vielzahl von Anwendungen geeignet sind. Unsere Gewindeschrauben sind aus hochwertigen Materialien gefertigt und bieten robuste und zuverlässige Leistung. Ob Sie eine einzelne Schraube oder eine größere Menge benötigen, bei uns finden Sie garantiert die richtigen Gewindeschrauben für Ihr Projekt. Stöbern Sie jetzt in unserem Online-Shop und bestellen Sie noch heute Ihre Gewindeschrauben."
-                    },
-                    {
-                        "title": "Möbelgriffe & Möbelknöpfe",
-                        "text": "Verleihen Sie Ihren Möbeln das gewisse Etwas mit unseren Möbelgriffen und -knöpfen. Wir bieten eine große Auswahl an Designs und Materialien, um jedem Stil gerecht zu werden. Von zeitlosen Klassikern bis hin zu modernen Designs - bei uns finden Sie garantiert die richtigen Griffe und Knöpfe für Ihre Möbel. Stöbern Sie jetzt in unserem Online-Shop und bestellen Sie noch heute Ihre Möbelgriffe und -knöpfe bequem von zu Hause aus."
-                    },
-                    {
-                        "title": "Möbelgleiter & Oberflächenschutz",
-                        "text": "Entdecken Sie unser breites Angebot an Möbelgleitern und Oberflächenschutz bei Eisenwarehouse.de. Unsere Möbelgleiter schonen Ihre Böden und verhindern Kratzer, während unsere Oberflächenschutzprodukte Ihre Möbel vor Abnutzung und Beschädigungen schützen. Wir bieten eine breite Auswahl an Größen und Materialien, um sicherzustellen, dass Sie das perfekte Produkt für Ihre Bedürfnisse finden."
-                    },
-                    {
-                        "title": "Bilderhaken & Ösen",
-                        "text": "Eisenwarehouse.de bietet eine große Auswahl an Bilderhaken und Ösen für alle Ihre Bedürfnisse. Unsere hochwertigen Produkte sind einfach zu installieren und sicher, um Ihre wertvollen Kunstwerke und Fotos aufzuhängen. Wir haben eine große Auswahl an Größen, Stärken und Farben, um sicherzustellen, dass Sie das perfekte Produkt für Ihre Wand finden."
-                    },
-                    {
-                        "title": "Profile",
-                        "text": "Eisenwarehouse.de hat eine breite Auswahl an <a href=\"/kategorie/profile/\" title=\"Profile\">Profile</a>n für alle Ihre Bedürfnisse. Unsere Profile sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Stabilität und Haltbarkeit. Wir haben eine große Auswahl an Größen und Farben, um sicherzustellen, dass Sie das perfekte Profil für Ihr Projekt finden."
-                    },
-                    {
-                        "title": "Muttern",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/muttern/\" title=\"Muttern\">Muttern</a> finden Sie eine breite Auswahl an hochwertigen Muttern für jegliche Anwendungen. Ob für den Einsatz in der Industrie oder im Handwerk - bei uns finden Sie garantiert die passende Mutter. Alle Muttern sind aus robustem Material gefertigt und bieten eine lange Lebensdauer. Bestellen Sie noch heute bequem online in unserem Shop."
-                    },
-                    {
-                        "title": "Sicherungsmuttern",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/sicherungsmuttern/\" title=\"Sicherungsmuttern\">Sicherungsmuttern</a> finden Sie eine große Auswahl an hochwertigen und zuverlässigen Sicherungsmuttern. Diese Muttern sind speziell für den Einsatz in sicherheitsrelevanten Bereichen konzipiert und bieten eine hohe Stabilität und Zuverlässigkeit. Bestellen Sie noch heute bequem online in unserem Shop."
-                    },
-                    {
-                        "title": "Möbelschrauben",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/moebelschrauben/\" title=\"Möbelschrauben\">Möbelschrauben</a> finden Sie eine große Auswahl an hochwertigen Möbelschrauben in verschiedenen Größen und Ausführungen. Ob für den Einsatz in der Möbelherstellung oder für den Heimwerkerbereich - bei uns finden Sie garantiert die passenden Möbelschrauben. Alle Schrauben sind aus robustem Material gefertigt und bieten eine lange Lebensdauer. Bestellen Sie noch heute bequem online in unserem Shop."
-                    },
-                    {
-                        "title": "Unterlegscheiben & Ringe",
-                        "text": "Eisenwaren & Beschläge - <a href=\"/kategorie/unterlegscheiben-ringe/\" title=\"Unterlegscheiben & Ringe\">Unterlegscheiben & Ringe</a> - Unterlegscheiben & Ringe sind ein wichtiger Bestandteil für jedes Projekt. In unserem Online-Shop bieten wir eine große Auswahl an hochwertigen Unterlegscheiben & Ringen in verschiedenen Größen und Materialien. Stöbern Sie durch unsere Produkte und finden Sie genau das, was Sie für Ihr Projekt benötigen."
-                    },
-                    {
-                        "title": "Unterlegscheiben",
-                        "text": "Eisenwaren & Beschläge - <a href=\"/kategorie/unterlegscheiben/\" title=\"Unterlegscheiben\">Unterlegscheiben</a> - Unterlegscheiben sind ein unverzichtbares Bauteil für jede Art von Projekten. In unserem Online-Shop finden Sie eine breite Palette an Unterlegscheiben in verschiedenen Größen und Materialien. Wir garantieren Ihnen eine hohe Qualität und eine schnelle Lieferung zu günstigen Preisen."
-                    },
-                    {
-                        "title": "Sturmhaken",
-                        "text": "Eisenwaren & Beschläge - <a href=\"/kategorie/sturmhaken/\" title=\"Sturmhaken\">Sturmhaken</a> - Sturmhaken sind ein wichtiger Bestandteil für den Schutz vor Wind und Wetter. Unsere Sturmhaken sind aus robusten Materialien gefertigt und bieten eine zuverlässige Befestigung. Entdecken Sie jetzt unser Sortiment an Sturmhaken und finden Sie das passende Produkt für Ihr Projekt."
-                    },
-                    {
-                        "title": "Winkelhaken",
-                        "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/winkelhaken/\" title=\"Winkelhaken\">Winkelhaken</a> im Eisenwaren & Beschläge Online-Shop. Unsere Winkelhaken sind aus hochwertigen Materialien hergestellt und bieten eine zuverlässige Befestigungslösung für eine Vielzahl von Anwendungen. Ob Sie einen Winkelhaken für Ihr Zuhause oder Ihr Geschäft benötigen, wir haben die perfekte Lösung für Sie. Stöbern Sie jetzt durch unsere Auswahl und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Zaunbeschläge",
-                        "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/zaunbeschlaege/\" title=\"Zaunbeschläge\">Zaunbeschläge</a>n für Ihren Garten oder Ihr Geschäft? Dann sind Sie bei uns im Eisenwaren & Beschläge Online-Shop genau richtig. Wir bieten eine breite Palette an Zaunbeschlägen in verschiedenen Stilen und Ausführungen, die Ihnen helfen, Ihren Zaun zu vervollständigen. Unsere Zaunbeschläge sind robust, langlebig und einfach zu installieren. Stöbern Sie jetzt durch unser Angebot und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Möbelbeschläge",
-                        "text": "Verleihen Sie Ihren Möbeln den letzten Schliff mit unseren hochwertigen <a href=\"/kategorie/moebelbeschlaege/\" title=\"Möbelbeschläge\">Möbelbeschläge</a>n im Eisenwaren & Beschläge Online-Shop. Unsere Möbelbeschläge sind aus langlebigen Materialien hergestellt und bieten eine robuste Befestigungslösung für Ihre Möbel. Ob Sie einen Griff für Ihre Küchenschränke, Scharniere für Ihre Türen oder Füße für Ihre Möbel benötigen, wir haben alles, was Sie brauchen. Stöbern Sie jetzt durch unser Angebot und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Maschinenschrauben",
-                        "text": "Die Kategorie <a href=\"/kategorie/maschinenschrauben/\" title=\"Maschinenschrauben\">Maschinenschrauben</a> bei Eisenwaren & Beschläge bietet eine große Auswahl an robusten und langlebigen Schrauben für den Einsatz in Maschinen und industriellen Anwendungen. Unsere Maschinenschrauben sind aus hochwertigen Materialien gefertigt und erfüllen hohe Qualitätsstandards. Ob Sie eine Schraube für eine spezielle Anwendung benötigen oder ein Set für den allgemeinen Einsatz, bei uns werden Sie fündig. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekte Schraube für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Nägel-Sets",
-                        "text": "Die Kategorie <a href=\"/kategorie/naegel-sets/\" title=\"Nägel-Sets\">Nägel-Sets</a> bei Eisenwaren & Beschläge bietet eine große Auswahl an hochwertigen Nägeln in praktischen Sets. Unsere Nägel sind aus robusten Materialien gefertigt und erfüllen hohe Qualitätsstandards. Ob Sie ein Set für den Heimwerkerbedarf oder für den professionellen Einsatz benötigen, bei uns werden Sie fündig. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Nägel-Set für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Holzschrauben-Sets",
-                        "text": "Die Kategorie <a href=\"/kategorie/holzschrauben-sets/\" title=\"Holzschrauben-Sets\">Holzschrauben-Sets</a> bei Eisenwaren & Beschläge bietet eine große Auswahl an robusten und langlebigen Holzschrauben in praktischen Sets. Unsere Holzschrauben sind aus hochwertigen Materialien gefertigt und erfüllen hohe Qualitätsstandards. Ob Sie ein Set für den Heimwerkerbedarf oder für den professionellen Einsatz benötigen, bei uns werden Sie fündig. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Holzschrauben-Set für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Seile & Ketten",
-                        "text": "Entdecken Sie die große Auswahl an Seilen & Ketten in unserem Online-Shop www.eisenwarehouse.de. Wir bieten Ihnen eine breite Palette an hochwertigen Seilen für alle Anwendungsbereiche. Von robusten Anschlagseilen für den Baubereich bis hin zu strapazierfähigen Seilen für den täglichen Gebrauch, finden Sie bei uns das richtige Seil. Unsere Ketten sind ebenfalls in verschiedenen Größen und Stärken erhältlich und bieten Ihnen eine zuverlässige Befestigungslösung für viele Anwendungsbereiche. Besuchen Sie jetzt unseren Online-Shop und finden Sie das passende Seil oder Kette für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Seile & Schnüre",
-                        "text": "In unserem Online-Shop www.eisenwarehouse.de finden Sie eine große Auswahl an Seilen & Schnüren für alle Anwendungsbereiche. Von strapazierfähigen Nylonseilen für den täglichen Gebrauch bis hin zu robusten Polypropylenseilen für den Baubereich, bieten wir Ihnen eine breite Palette an hochwertigen Seilen. Unsere Schnüre sind ebenfalls in verschiedenen Größen und Stärken erhältlich und bieten Ihnen eine zuverlässige Befestigungslösung für viele Anwendungsbereiche. Besuchen Sie jetzt unseren Online-Shop und finden Sie das passende Seil oder Schnur für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Weitere Seile & Schnüre",
-                        "text": "In unserem Online-Shop www.eisenwarehouse.de finden Sie auch weitere Seile & Schnüre für alle Anwendungsbereiche. Unsere breite Palette an hochwertigen Seilen und Schnüren bietet Ihnen eine zuverlässige Befestigungslösung für viele Anwendungsbereiche. Von strapazierfähigen Seilen für den täglichen Gebrauch bis hin zu robusten Seilen für den Baubereich, bieten wir Ihnen eine große Auswahl an Produkten. Besuchen Sie jetzt unseren Online-Shop und finden Sie das passende Seil oder Schnur für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Deckenhaken",
-                        "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/deckenhaken/\" title=\"Deckenhaken\">Deckenhaken</a> in unserem Online-Shop. Wir bieten hochwertige und langlebige Deckenhaken in verschiedenen Größen und Materialien. Diese eignen sich ideal für den Einsatz im Innen- und Außenbereich. Ob Sie einen Deckenhaken für eine Lampe, einen Vorhang oder ein anderes Projekt benötigen, bei uns werden Sie fündig. Bestellen Sie jetzt und profitieren Sie von schneller Lieferung und ausgezeichnetem Kundenservice."
-                    },
-                    {
-                        "title": "Möbelschlösser",
-                        "text": "Schützen Sie Ihre Möbel vor unbefugtem Zugriff mit unseren hochwertigen <a href=\"/kategorie/moebelschloesser/\" title=\"Möbelschlösser\">Möbelschlösser</a>n. Wir bieten eine große Auswahl an Möbelschlössern in verschiedenen Größen und Stilen, die für alle Arten von Möbeln geeignet sind. Ob Sie ein Schloss für Ihren Schrank, Ihre Kommode oder Ihren Safe benötigen, bei uns finden Sie das passende Schloss. Bestellen Sie jetzt und schützen Sie Ihre Möbel mit Stil."
-                    },
-                    {
-                        "title": "Schilder",
-                        "text": "Verleihen Sie Ihren Räumen eine persönliche Note mit unseren <a href=\"/kategorie/schilder/\" title=\"Schilder\">Schilder</a>n. Wir bieten eine große Auswahl an Schildern in verschiedenen Größen, Farben und Stilen, die für alle Arten von Räumen geeignet sind. Ob Sie ein Schild für Ihr Büro, Ihr Zuhause oder Ihre Geschäftsräume benötigen, bei uns werden Sie fündig. Bestellen Sie jetzt und verleihen Sie Ihren Räumen eine persönliche Note."
-                    },
-                    {
-                        "title": "Torbeschläge",
-                        "text": "<a href=\"/kategorie/torbeschlaege/\" title=\"Torbeschläge\">Torbeschläge</a> sind ein wichtiger Bestandteil jedes Tores und tragen zur Sicherheit und Stabilität bei. Bei Eisenwarehouse finden Sie eine große Auswahl an hochwertigen Torbeschlägen, die Ihnen lange Zeit gute Dienste leisten werden. Wir bieten sowohl traditionelle als auch moderne Torbeschläge in verschiedenen Größen und Ausführungen, damit Sie genau das finden, was Ihren Anforderungen entspricht."
-                    },
-                    {
-                        "title": "Kloben",
-                        "text": "<a href=\"/kategorie/kloben/\" title=\"Kloben\">Kloben</a> sind ein unverzichtbares Zubehör für Türen und Fenster und ermöglichen eine sichere Befestigung. Bei Eisenwarehouse finden Sie eine große Auswahl an Kloben in verschiedenen Ausführungen und Materialien, darunter Messing, Edelstahl und verzinktem Stahl. Wählen Sie die Kloben, die am besten zu Ihrem Tür- oder Fensterrahmen passen und Ihre Anforderungen erfüllen."
-                    },
-                    {
-                        "title": "Scharniere & Beschläge",
-                        "text": "Scharniere und Beschläge sind unverzichtbar für den reibungslosen Betrieb von Türen und Fenstern. Bei Eisenwarehouse finden Sie eine große Auswahl an hochwertigen Scharnieren und Beschlägen in verschiedenen Größen, Ausführungen und Materialien, darunter Messing, Edelstahl und verzinktem Stahl. Ob Sie eine neue Tür oder ein neues Fenster einbauen oder Ihre bestehenden beschädigen Scharniere und Beschläge ersetzen möchten, bei uns finden Sie alles, was Sie brauchen."
-                    },
-                    {
-                        "title": "Scharniere",
-                        "text": "Entdecken Sie unser breites Angebot an <a href=\"/kategorie/scharniere/\" title=\"Scharniere\">Scharniere</a>n für jeden Bedarf im Online-Shop von Eisenwarehouse. Wir bieten hochwertige Scharniere in verschiedenen Ausführungen und Größen, um jedes Tür- und Fensterprojekt erfolgreich zu abschließen. Ob Sie eine einfache Türmontage oder eine komplexe Schranktür brauchen, wir haben die passenden Scharniere für Sie. Zögern Sie nicht, unser Sortiment zu durchstöbern und das perfekte Scharnier für Ihre Bedürfnisse zu finden."
-                    },
-                    {
-                        "title": "Bohrschrauben",
-                        "text": "Eisenwarehouse bietet eine breite Palette an <a href=\"/kategorie/bohrschrauben/\" title=\"Bohrschrauben\">Bohrschrauben</a>, um jedes Projekt zu erfüllen. Unsere Bohrschrauben sind in verschiedenen Größen, Materialien und Ausführungen erhältlich, um Ihre Anforderungen zu erfüllen. Ob Sie eine einfache Montage oder eine komplexe Konstruktion benötigen, wir haben die perfekte Bohrschraube für Sie. Durchstöbern Sie unser Angebot und finden Sie die Bohrschrauben, die Ihren Bedürfnissen entsprechen."
-                    },
-                    {
-                        "title": "Haken- & Ösen-Sets",
-                        "text": "Eisenwarehouse bietet eine große Auswahl an Haken- und Ösen-Sets für alle Ihre Bedürfnisse. Unsere Sets sind in verschiedenen Größen, Materialien und Ausführungen erhätlich, um Ihre Anforderungen zu erfüllen. Ob Sie eine einfache Montage oder eine komplexe Konstruktion benötigen, wir haben das perfekte Set für Sie. Stöbern Sie durch unser Angebot und finden Sie das Haken- und Ösenset, das Ihren Bedürfnissen entspricht."
-                    },
-                    {
-                        "title": "Schubkastenauszüge",
-                        "text": "<a href=\"/kategorie/schubkastenauszuege/\" title=\"Schubkastenauszüge\">Schubkastenauszüge</a> sind ein unverzichtbarer Bestandteil jeder Küche oder jedem Möbelstück mit Schubladen. Sie ermöglichen eine einfache und bequeme Handhabung der Schubladen. Im Online Shop von Eisenwarehouse finden Sie eine große Auswahl an hochwertigen Schubkastenauszügen in verschiedenen Größen und Ausführungen. Stöbern Sie durch unsere Produkte und finden Sie den perfekten Schubkastenauszug für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Schnellbauschrauben & Trockenbauschrauben",
-                        "text": "Schnellbauschrauben und Trockenbauschrauben sind wichtige Werkzeuge für jeden Handwerker oder Heimwerker. Sie erleichtern das Bauen und Montieren von Holzkonstruktionen und Möbeln. Im Online Shop von Eisenwarehouse finden Sie eine große Auswahl an hochwertigen Schnellbauschrauben und Trockenbauschrauben in verschiedenen Größen und Ausführungen. Stöbern Sie durch unsere Produkte und finden Sie die perfekte Schraube für Ihr nächstes Projekt."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Online Shop für Eisenwaren & Beschläge",
-            "metaDescription": "Breites Sortiment an Eisenwaren & Beschläge. Bestellen Sie jetzt günstig und bequem von zu Hause. Schnelle Lieferung von Schrauben, Dübel, Bleche, Stangen uvm. ",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Eisenwaren & Beschläge | Auflistung von Herstellern",
-            "metaDescription": "Marktführende Hersteller für Eisenwaren & Beschläge. Bei uns finden Sie Produkte von Marken wie: Fischer, Spax, Burg Wächter, Hettich, LUX-TOOLS uvm. ",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - eine gute Wahl ",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Eisenwaren & Beschläge zu Top Preisen. Finden Sie weitere hochwertige Produkte in der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "eisenwarehouse.de",
+  "hostname": "https://www.eisenwarehouse.de/",
+  "email": "eisenwarehouse.de@surrealnetworks.io",
+  "organization": "eisenwarehouse.de",
+  "logoText": "Eisenwarehouse.de",
+  "title": "Eisenwaren & Beschl\u00e4ge",
+  "subline": "Der Online Shop f\u00fcr Handwerker",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "4162525",
+    "2502946",
+    "4866257",
+    "5457304",
+    "1328079",
+    "3799400"
+  ],
+  "winnerProducts": [
+    "1644541",
+    "5310594",
+    "6700116"
+  ],
+  "featuredCategories": [
+    "Bilderhaken & \u00d6sen",
+    "Gewindestangen",
+    "Bleche",
+    "Seile & Schn\u00fcre",
+    "Rollen & R\u00e4der",
+    "Gewindeschrauben"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Eisenwaren & Beschl\u00e4ge",
+    "featureText": "Willkommen in unserem Shop. Wir sind Spezialisten auf dem Gebiet der Eisenwaren und Beschl\u00e4ge. Nach Kategorien geordnet finden Sie hier eine Zusammenstellung qualitativ hochwertiger Produkte. Dar\u00fcber hinaus finden Sie eine Liste mit allen Marken, die wir f\u00fchren. So wird Ihnen die Suche nach dem passenden Produkt erleichtert! Wir laden Sie ein, sich durch unser Sortiment zu klicken. Wir w\u00fcnschen Ihnen viel Spa\u00df!",
+    "index": {
+      "title": "Einfach und g\u00fcnstig Eisenwaren & Beschl\u00e4ge bestellen",
+      "metaDescription": "Gro\u00dfe Auswahl an Eisenwaren & Beschl\u00e4ge - Ob Schrauben, D\u00fcbel, Bleche, Stangen, Haken & \u00d6sen, Beschl\u00e4ge, Bodenh\u00fclsen etc., hier finden Sie alles!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Eisenwarehouse",
+            "text": "Herzlich Willkommen auf Eisenwarehouse, Ihrem Online-Shop f\u00fcr hochwertige Eisenwaren & Beschl\u00e4ge. Wir bieten Ihnen eine breite Auswahl an Produkten f\u00fcr den Bau und die Renovierung Ihres Zuhauses oder Ihres Gesch\u00e4fts. Von Baubeschl\u00e4gen \u00fcber Pfostentr\u00e4ger & Bodenh\u00fclsen bis hin zu Schrauben und Holzverbindern haben wir alles, was Sie ben\u00f6tigen. Unsere Produkte sind von h\u00f6chster Qualit\u00e4t und werden Ihnen eine lange Lebensdauer und Zuverl\u00e4ssigkeit garantieren. Wir sind stolz darauf, Ihnen einen hervorragenden Kundenservice und eine einfache Navigation durch unsere Kategorien zu bieten. St\u00f6bern Sie jetzt durch unsere Kategorien, um die perfekten Eisenwaren & Beschl\u00e4ge f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Beschl\u00e4ge",
+            "text": "Entdecken Sie unsere gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/beschlaege/\" title=\"Beschl\u00e4ge\">Beschl\u00e4ge</a>n. Von T\u00fcrbeschl\u00e4gen bis hin zu Fensterbeschl\u00e4gen finden Sie bei uns alles, was Sie f\u00fcr Ihr Zuhause oder Gesch\u00e4ft ben\u00f6tigen. Unsere Beschl\u00e4ge sind langlebig und sorgen f\u00fcr eine sichere Funktionalit\u00e4t. Wir bieten Ihnen eine breite Auswahl an Stilen und Finishes, um Ihren pers\u00f6nlichen Geschmack zu treffen."
+          },
+          {
+            "title": "Baubeschl\u00e4ge",
+            "text": "Unser Angebot an <a href=\"/kategorie/baubeschlaege/\" title=\"Baubeschl\u00e4ge\">Baubeschl\u00e4ge</a>n umfasst alles, was Sie f\u00fcr Ihr Bauprojekt ben\u00f6tigen. Von Pfostentr\u00e4gern bis hin zu Verbindern finden Sie bei uns eine breite Auswahl an hochwertigen Baubeschl\u00e4gen. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. St\u00f6bern Sie jetzt durch unsere Baubeschl\u00e4ge-Kategorie, um das perfekte Produkt f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Pfostentr\u00e4ger & Bodenh\u00fclsen",
+            "text": "Unsere <a href=\"/kategorie/pfostentraeger-bodenhuelsen/\" title=\"Pfostentr\u00e4ger & Bodenh\u00fclsen\">Pfostentr\u00e4ger & Bodenh\u00fclsen</a> sind die perfekte L\u00f6sung f\u00fcr Ihr Bauprojekt. Diese robusten und langlebigen Produkte sorgen f\u00fcr eine sichere Befestigung von Pfosten und tragen zur Stabilit\u00e4t Ihres Bauprojekts bei. Wir bieten Ihnen eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Pfostentr\u00e4ger & Bodenh\u00fclsen-Kategorie."
+          },
+          {
+            "title": "Haken & \u00d6sen",
+            "text": "Entdecken Sie bei Eisenwarehouse unsere gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/haken-oesen/\" title=\"Haken & \u00d6sen\">Haken & \u00d6sen</a>. Unsere Produkte sind aus robusten Materialien gefertigt und bieten eine sichere Befestigung f\u00fcr Ihre Gegenst\u00e4nde. Ob f\u00fcr den Innen- oder Au\u00dfenbereich, wir haben die perfekte L\u00f6sung f\u00fcr Sie. W\u00e4hlen Sie aus einer Vielzahl an Stilen und Finishes, um Ihren pers\u00f6nlichen Geschmack zu treffen."
+          },
+          {
+            "title": "Wandhaken",
+            "text": "Unsere <a href=\"/kategorie/wandhaken/\" title=\"Wandhaken\">Wandhaken</a> bieten Ihnen eine praktische L\u00f6sung f\u00fcr das Aufh\u00e4ngen von Gegenst\u00e4nden an Ihren W\u00e4nden. Ob f\u00fcr Jacken, Handt\u00fccher oder andere Gegenst\u00e4nde, unsere Wandhaken sind robust und langlebig. Wir bieten Ihnen eine breite Auswahl an Stilen und Finishes, um Ihren pers\u00f6nlichen Geschmack zu treffen. Entdecken Sie jetzt unsere Wandhaken-Kategorie."
+          },
+          {
+            "title": "Schrauben",
+            "text": "Unsere <a href=\"/kategorie/schrauben/\" title=\"Schrauben\">Schrauben</a> sind die perfekte L\u00f6sung f\u00fcr Ihre Befestigungsbed\u00fcrfnisse. Von Holzschrauben bis hin zu Terrassenschrauben bieten wir Ihnen eine breite Auswahl an hochwertigen Schrauben. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere Schrauben-Kategorie, um das perfekte Produkt f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Holzschrauben & Holzbauschrauben",
+            "text": "Entdecken Sie bei Eisenwarehouse unsere gro\u00dfe Auswahl an <a href=\"/kategorie/holzschrauben-holzbauschrauben/\" title=\"Holzschrauben & Holzbauschrauben\">Holzschrauben & Holzbauschrauben</a>. Diese robusten und langlebigen Schrauben eignen sich perfekt f\u00fcr Holzbauprojekte. Wir bieten Ihnen eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um Ihren Anforderungen gerecht zu werden. St\u00f6bern Sie jetzt durch unsere Holzschrauben & Holzbauschrauben-Kategorie, um das perfekte Produkt f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Terrassenschrauben",
+            "text": "Unsere <a href=\"/kategorie/terrassenschrauben/\" title=\"Terrassenschrauben\">Terrassenschrauben</a> sind die perfekte L\u00f6sung f\u00fcr Ihre Terrassenbauprojekte. Diese robusten und langlebigen Schrauben sorgen f\u00fcr eine sichere Befestigung Ihrer Terrassenbretter. Wir bieten Ihnen eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Terrassenschrauben-Kategorie."
+          },
+          {
+            "title": "Winkel & Holzverbinder",
+            "text": "Unsere <a href=\"/kategorie/winkel-holzverbinder/\" title=\"Winkel & Holzverbinder\">Winkel & Holzverbinder</a> bieten Ihnen eine praktische L\u00f6sung f\u00fcr Ihre Holzbauprojekte. Diese robusten und langlebigen Produkte sorgen f\u00fcr eine sichere Verbindung von Holzteilen. Wir bieten Ihnen eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Winkel & Holzverbinder-Kategorie."
+          },
+          {
+            "title": "Gewindestangen",
+            "text": "Entdecken Sie bei Eisenwarehouse unsere gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/gewindestangen/\" title=\"Gewindestangen\">Gewindestangen</a>. Diese robusten und langlebigen Stangen eignen sich perfekt f\u00fcr Ihre Befestigungsbed\u00fcrfnisse. Wir bieten Ihnen eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um Ihren Anforderungen gerecht zu werden. St\u00f6bern Sie jetzt durch unsere Gewindestangen-Kategorie, um das perfekte Produkt f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Spanplattenschrauben & Universalschrauben",
+            "text": "Unsere <a href=\"/kategorie/spanplattenschrauben-universalschrauben/\" title=\"Spanplattenschrauben & Universalschrauben\">Spanplattenschrauben & Universalschrauben</a> bieten Ihnen eine praktische L\u00f6sung f\u00fcr Ihre Befestigungsbed\u00fcrfnisse. Diese robusten und langlebigen Schrauben eignen sich perfekt f\u00fcr eine Vielzahl von Anwendungen. Wir bieten Ihnen eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Spanplattenschrauben & Universalschrauben-Kategorie."
+          },
+          {
+            "title": "M\u00f6beltechnik",
+            "text": "Unsere <a href=\"/kategorie/moebeltechnik/\" title=\"M\u00f6beltechnik\">M\u00f6beltechnik</a> bietet Ihnen alles, was Sie f\u00fcr die Montage und Renovierung Ihrer M\u00f6bel ben\u00f6tigen. Von Scharnieren bis hin zu Schubladenf\u00fchrungen finden Sie bei uns eine breite Auswahl an hochwertigen M\u00f6beltechnik-Produkten. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere M\u00f6beltechnik-Kategorie."
+          },
+          {
+            "title": "M\u00f6belausstattung",
+            "text": "Entdecken Sie bei Eisenwarehouse unsere gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/moebelausstattung/\" title=\"M\u00f6belausstattung\">M\u00f6belausstattung</a>en. Von Scharnieren bis hin zu Schubladenf\u00fchrungen bieten wir Ihnen alles, was Sie f\u00fcr die Montage und Renovierung Ihrer M\u00f6bel ben\u00f6tigen. Alle unsere Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. St\u00f6bern Sie jetzt durch unsere M\u00f6belausstattung-Kategorie, um das perfekte Produkt f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "D\u00fcbel",
+            "text": "Unsere <a href=\"/kategorie/duebel/\" title=\"D\u00fcbel\">D\u00fcbel</a> bieten Ihnen eine sichere und zuverl\u00e4ssige Befestigung f\u00fcr Ihre Gegenst\u00e4nde. Ob f\u00fcr den Innen- oder Au\u00dfenbereich, wir haben die perfekte L\u00f6sung f\u00fcr Sie. Alle unsere D\u00fcbel sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere D\u00fcbel-Kategorie."
+          },
+          {
+            "title": "Blechschrauben & Bohrschrauben",
+            "text": "Unsere <a href=\"/kategorie/blechschrauben-bohrschrauben/\" title=\"Blechschrauben & Bohrschrauben\">Blechschrauben & Bohrschrauben</a> bieten Ihnen eine praktische L\u00f6sung f\u00fcr Ihre Befestigungsbed\u00fcrfnisse. Diese robusten und langlebigen Schrauben eignen sich perfekt f\u00fcr den Einsatz auf Blech- und Holzmaterialien. Wir bieten Ihnen eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um Ihren Anforderungen gerecht zu werden. Entdecken Sie jetzt unsere Blechschrauben & Bohrschrauben-Kategorie."
+          },
+          {
+            "title": "Blechschrauben & Bohrschrauben-Sets",
+            "text": "Entdecken Sie bei Eisenwarehouse unsere gro\u00dfe Auswahl an <a href=\"/kategorie/blechschrauben-bohrschrauben-sets/\" title=\"Blechschrauben & Bohrschrauben-Sets\">Blechschrauben & Bohrschrauben-Sets</a>. Diese praktischen Sets bieten Ihnen alles, was Sie f\u00fcr Ihre Befestigungsbed\u00fcrfnisse ben\u00f6tigen. Alle Schrauben sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. St\u00f6bern Sie jetzt durch unsere Blechschrauben & Bohrschrauben-Sets-Kategorie, um das perfekte Set f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Kleineisenwaren-Sets",
+            "text": "Unsere <a href=\"/kategorie/kleineisenwaren-sets/\" title=\"Kleineisenwaren-Sets\">Kleineisenwaren-Sets</a> bieten Ihnen eine praktische und kosteneffiziente L\u00f6sung f\u00fcr Ihre Befestigungsbed\u00fcrfnisse. Diese Sets enthalten eine Vielzahl an Kleineisenwaren, wie Haken, \u00d6sen und Schrauben. Alle Produkte sind aus robusten Materialien gefertigt und garantieren eine lange Lebensdauer. Entdecken Sie jetzt unsere Kleineisenwaren-Sets-Kategorie."
+          },
+          {
+            "title": "Metrische-Schrauben-Sets",
+            "text": "Unsere <a href=\"/kategorie/metrische-schrauben-sets/\" title=\"Metrische-Schrauben-Sets\">Metrische-Schrauben-Sets</a> bieten Ihnen alles, was Sie f\u00fcr Ihre Befestigungsbed\u00fcrfnisse ben\u00f6tigen. Diese praktischen Sets enthalten eine Vielzahl an metrischen Schrauben in verschiedenen Gr\u00f6\u00dfen und Materialien. Alle Schrauben sind robust und langlebig. Entdecken Sie jetzt unsere Metrische-Schrauben-Sets-Kategorie, um das perfekte Set f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Rollen & R\u00e4der",
+            "text": "Entdecken Sie bei Eisenwarehouse eine gro\u00dfe Auswahl an <a href=\"/kategorie/rollen-raeder/\" title=\"Rollen & R\u00e4der\">Rollen & R\u00e4der</a>n f\u00fcr Ihre M\u00f6bel und Ger\u00e4te. Unsere Rollen & R\u00e4der sind aus robusten Materialien gefertigt und bieten eine hohe Belastbarkeit. Mit unseren Rollen & R\u00e4dern k\u00f6nnen Sie Ihre M\u00f6bel und Ger\u00e4te m\u00fchelos bewegen und verschieben. St\u00f6bern Sie jetzt durch unsere Rollen & R\u00e4der-Kategorie, um das perfekte Set f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Schiebet\u00fcrbeschl\u00e4ge",
+            "text": "Entdecken Sie bei Eisenwarehouse eine gro\u00dfe Auswahl an <a href=\"/kategorie/schiebetuerbeschlaege/\" title=\"Schiebet\u00fcrbeschl\u00e4ge\">Schiebet\u00fcrbeschl\u00e4ge</a>n. Unsere Schiebet\u00fcrbeschl\u00e4ge sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Schiebet\u00fcrbeschl\u00e4gen k\u00f6nnen Sie Ihre Schiebet\u00fcren einfach und sicher befestigen. St\u00f6bern Sie jetzt durch unsere Schiebet\u00fcrbeschl\u00e4ge-Kategorie, um das perfekte Set f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Briefk\u00e4sten",
+            "text": "Entdecken Sie bei Eisenwarehouse eine gro\u00dfe Auswahl an <a href=\"/kategorie/briefkaesten/\" title=\"Briefk\u00e4sten\">Briefk\u00e4sten</a> f\u00fcr Ihr Zuhause oder B\u00fcro. Unsere Briefk\u00e4sten sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Briefk\u00e4sten k\u00f6nnen Sie Ihre Post sicher und bequem aufbewahren. St\u00f6bern Sie jetzt durch unsere Briefk\u00e4sten-Kategorie, um den perfekten Briefkasten f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "M\u00f6belbeine",
+            "text": "Entdecken Sie bei Eisenwarehouse eine gro\u00dfe Auswahl an <a href=\"/kategorie/moebelbeine/\" title=\"M\u00f6belbeine\">M\u00f6belbeine</a>n. Unsere M\u00f6belbeine sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren M\u00f6belbeinen k\u00f6nnen Sie Ihre M\u00f6bel einfach und stilvoll aufwerten. St\u00f6bern Sie jetzt durch unsere M\u00f6belbein-Kategorie, um die perfekten Beine f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Profile & Bleche",
+            "text": "Entdecken Sie bei Eisenwarehouse eine gro\u00dfe Auswahl an Profilen & Blechen. Unsere <a href=\"/kategorie/profile-bleche/\" title=\"Profile & Bleche\">Profile & Bleche</a> sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Profilen & Blechen k\u00f6nnen Sie Ihre Projekte einfach und sicher realisieren. St\u00f6bern Sie jetzt durch unsere Profile & Bleche-Kategorie, um die perfekten Profile & Bleche f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Bleche",
+            "text": "Entdecken Sie bei Eisenwarehouse eine gro\u00dfe Auswahl an <a href=\"/kategorie/bleche/\" title=\"Bleche\">Bleche</a>n. Unsere Bleche sind aus robusten Materialien gefertigt und bieten eine lange Lebensdauer. Mit unseren Blechen k\u00f6nnen Sie Ihre Projekte einfach und sicher realisieren. St\u00f6bern Sie jetzt durch unsere Blech-Kategorie, um das perfekte Blech f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Stangen",
+            "text": "Entdecken Sie unser breites Angebot an <a href=\"/kategorie/stangen/\" title=\"Stangen\">Stangen</a> im Eisenwaren & Beschl\u00e4ge Online-Shop bei Eisenwarehouse.de. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Stangen in unterschiedlichen Gr\u00f6\u00dfen und Materialien, damit Sie f\u00fcr jedes Projekt die passenden Stangen finden. Von Edelstahlstangen bis hin zu Aluminiumstangen haben wir alles, was Sie brauchen. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und bestellen Sie noch heute Ihre Stangen."
+          },
+          {
+            "title": "Transporthilfen",
+            "text": "Bei Eisenwarehouse.de finden Sie alles, was Sie f\u00fcr den Transport Ihrer Waren ben\u00f6tigen. Unser Sortiment an <a href=\"/kategorie/transporthilfen/\" title=\"Transporthilfen\">Transporthilfen</a> bietet Ihnen eine gro\u00dfe Auswahl an praktischen L\u00f6sungen f\u00fcr jeden Bedarf. Von Handwagen und Sackkarren bis hin zu Gabelstaplern und Hubwagen - wir haben alles, was Sie brauchen. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und bestellen Sie noch heute Ihre Transporthilfen."
+          },
+          {
+            "title": "T\u00fcrbeschl\u00e4ge",
+            "text": "Verleihen Sie Ihren T\u00fcren mit den <a href=\"/kategorie/tuerbeschlaege/\" title=\"T\u00fcrbeschl\u00e4ge\">T\u00fcrbeschl\u00e4ge</a>n von Eisenwarehouse.de das gewisse Extra. Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen T\u00fcrbeschl\u00e4gen in verschiedenen Designs und Materialien. Von Edelstahlt\u00fcrbeschl\u00e4gen bis hin zu T\u00fcrbeschl\u00e4gen aus Messing - wir haben alles, was Sie brauchen. \u00dcberzeugen Sie sich selbst von unserer Qualit\u00e4t und bestellen Sie noch heute Ihre T\u00fcrbeschl\u00e4ge."
+          },
+          {
+            "title": "Metrische-Schrauben & Zollschrauben",
+            "text": "Entdecken Sie unser breites Sortiment an metrischen Schrauben und Zollschrauben. Unsere Schrauben sind in verschiedenen Gr\u00f6\u00dfen und Materialien erh\u00e4ltlich, um jeden Bedarf zu erf\u00fcllen. Wir bieten robuste und langlebige Schrauben, die f\u00fcr alle Arten von Projekten geeignet sind. Mit uns finden Sie garantiert die richtigen Schrauben f\u00fcr Ihre Anwendungen. St\u00f6bern Sie jetzt in unserem Online-Shop und bestellen Sie noch heute Ihre Schrauben bequem von zu Hause aus."
+          },
+          {
+            "title": "Gewindeschrauben",
+            "text": "Wir bieten eine breite Auswahl an <a href=\"/kategorie/gewindeschrauben/\" title=\"Gewindeschrauben\">Gewindeschrauben</a>, die f\u00fcr eine Vielzahl von Anwendungen geeignet sind. Unsere Gewindeschrauben sind aus hochwertigen Materialien gefertigt und bieten robuste und zuverl\u00e4ssige Leistung. Ob Sie eine einzelne Schraube oder eine gr\u00f6\u00dfere Menge ben\u00f6tigen, bei uns finden Sie garantiert die richtigen Gewindeschrauben f\u00fcr Ihr Projekt. St\u00f6bern Sie jetzt in unserem Online-Shop und bestellen Sie noch heute Ihre Gewindeschrauben."
+          },
+          {
+            "title": "M\u00f6belgriffe & M\u00f6belkn\u00f6pfe",
+            "text": "Verleihen Sie Ihren M\u00f6beln das gewisse Etwas mit unseren M\u00f6belgriffen und -kn\u00f6pfen. Wir bieten eine gro\u00dfe Auswahl an Designs und Materialien, um jedem Stil gerecht zu werden. Von zeitlosen Klassikern bis hin zu modernen Designs - bei uns finden Sie garantiert die richtigen Griffe und Kn\u00f6pfe f\u00fcr Ihre M\u00f6bel. St\u00f6bern Sie jetzt in unserem Online-Shop und bestellen Sie noch heute Ihre M\u00f6belgriffe und -kn\u00f6pfe bequem von zu Hause aus."
+          },
+          {
+            "title": "M\u00f6belgleiter & Oberfl\u00e4chenschutz",
+            "text": "Entdecken Sie unser breites Angebot an M\u00f6belgleitern und Oberfl\u00e4chenschutz bei Eisenwarehouse.de. Unsere M\u00f6belgleiter schonen Ihre B\u00f6den und verhindern Kratzer, w\u00e4hrend unsere Oberfl\u00e4chenschutzprodukte Ihre M\u00f6bel vor Abnutzung und Besch\u00e4digungen sch\u00fctzen. Wir bieten eine breite Auswahl an Gr\u00f6\u00dfen und Materialien, um sicherzustellen, dass Sie das perfekte Produkt f\u00fcr Ihre Bed\u00fcrfnisse finden."
+          },
+          {
+            "title": "Bilderhaken & \u00d6sen",
+            "text": "Eisenwarehouse.de bietet eine gro\u00dfe Auswahl an Bilderhaken und \u00d6sen f\u00fcr alle Ihre Bed\u00fcrfnisse. Unsere hochwertigen Produkte sind einfach zu installieren und sicher, um Ihre wertvollen Kunstwerke und Fotos aufzuh\u00e4ngen. Wir haben eine gro\u00dfe Auswahl an Gr\u00f6\u00dfen, St\u00e4rken und Farben, um sicherzustellen, dass Sie das perfekte Produkt f\u00fcr Ihre Wand finden."
+          },
+          {
+            "title": "Profile",
+            "text": "Eisenwarehouse.de hat eine breite Auswahl an <a href=\"/kategorie/profile/\" title=\"Profile\">Profile</a>n f\u00fcr alle Ihre Bed\u00fcrfnisse. Unsere Profile sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Stabilit\u00e4t und Haltbarkeit. Wir haben eine gro\u00dfe Auswahl an Gr\u00f6\u00dfen und Farben, um sicherzustellen, dass Sie das perfekte Profil f\u00fcr Ihr Projekt finden."
+          },
+          {
+            "title": "Muttern",
+            "text": "In unserer Kategorie <a href=\"/kategorie/muttern/\" title=\"Muttern\">Muttern</a> finden Sie eine breite Auswahl an hochwertigen Muttern f\u00fcr jegliche Anwendungen. Ob f\u00fcr den Einsatz in der Industrie oder im Handwerk - bei uns finden Sie garantiert die passende Mutter. Alle Muttern sind aus robustem Material gefertigt und bieten eine lange Lebensdauer. Bestellen Sie noch heute bequem online in unserem Shop."
+          },
+          {
+            "title": "Sicherungsmuttern",
+            "text": "In unserer Kategorie <a href=\"/kategorie/sicherungsmuttern/\" title=\"Sicherungsmuttern\">Sicherungsmuttern</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen und zuverl\u00e4ssigen Sicherungsmuttern. Diese Muttern sind speziell f\u00fcr den Einsatz in sicherheitsrelevanten Bereichen konzipiert und bieten eine hohe Stabilit\u00e4t und Zuverl\u00e4ssigkeit. Bestellen Sie noch heute bequem online in unserem Shop."
+          },
+          {
+            "title": "M\u00f6belschrauben",
+            "text": "In unserer Kategorie <a href=\"/kategorie/moebelschrauben/\" title=\"M\u00f6belschrauben\">M\u00f6belschrauben</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen M\u00f6belschrauben in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Ob f\u00fcr den Einsatz in der M\u00f6belherstellung oder f\u00fcr den Heimwerkerbereich - bei uns finden Sie garantiert die passenden M\u00f6belschrauben. Alle Schrauben sind aus robustem Material gefertigt und bieten eine lange Lebensdauer. Bestellen Sie noch heute bequem online in unserem Shop."
+          },
+          {
+            "title": "Unterlegscheiben & Ringe",
+            "text": "Eisenwaren & Beschl\u00e4ge - <a href=\"/kategorie/unterlegscheiben-ringe/\" title=\"Unterlegscheiben & Ringe\">Unterlegscheiben & Ringe</a> - Unterlegscheiben & Ringe sind ein wichtiger Bestandteil f\u00fcr jedes Projekt. In unserem Online-Shop bieten wir eine gro\u00dfe Auswahl an hochwertigen Unterlegscheiben & Ringen in verschiedenen Gr\u00f6\u00dfen und Materialien. St\u00f6bern Sie durch unsere Produkte und finden Sie genau das, was Sie f\u00fcr Ihr Projekt ben\u00f6tigen."
+          },
+          {
+            "title": "Unterlegscheiben",
+            "text": "Eisenwaren & Beschl\u00e4ge - <a href=\"/kategorie/unterlegscheiben/\" title=\"Unterlegscheiben\">Unterlegscheiben</a> - Unterlegscheiben sind ein unverzichtbares Bauteil f\u00fcr jede Art von Projekten. In unserem Online-Shop finden Sie eine breite Palette an Unterlegscheiben in verschiedenen Gr\u00f6\u00dfen und Materialien. Wir garantieren Ihnen eine hohe Qualit\u00e4t und eine schnelle Lieferung zu g\u00fcnstigen Preisen."
+          },
+          {
+            "title": "Sturmhaken",
+            "text": "Eisenwaren & Beschl\u00e4ge - <a href=\"/kategorie/sturmhaken/\" title=\"Sturmhaken\">Sturmhaken</a> - Sturmhaken sind ein wichtiger Bestandteil f\u00fcr den Schutz vor Wind und Wetter. Unsere Sturmhaken sind aus robusten Materialien gefertigt und bieten eine zuverl\u00e4ssige Befestigung. Entdecken Sie jetzt unser Sortiment an Sturmhaken und finden Sie das passende Produkt f\u00fcr Ihr Projekt."
+          },
+          {
+            "title": "Winkelhaken",
+            "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/winkelhaken/\" title=\"Winkelhaken\">Winkelhaken</a> im Eisenwaren & Beschl\u00e4ge Online-Shop. Unsere Winkelhaken sind aus hochwertigen Materialien hergestellt und bieten eine zuverl\u00e4ssige Befestigungsl\u00f6sung f\u00fcr eine Vielzahl von Anwendungen. Ob Sie einen Winkelhaken f\u00fcr Ihr Zuhause oder Ihr Gesch\u00e4ft ben\u00f6tigen, wir haben die perfekte L\u00f6sung f\u00fcr Sie. St\u00f6bern Sie jetzt durch unsere Auswahl und bestellen Sie noch heute."
+          },
+          {
+            "title": "Zaunbeschl\u00e4ge",
+            "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/zaunbeschlaege/\" title=\"Zaunbeschl\u00e4ge\">Zaunbeschl\u00e4ge</a>n f\u00fcr Ihren Garten oder Ihr Gesch\u00e4ft? Dann sind Sie bei uns im Eisenwaren & Beschl\u00e4ge Online-Shop genau richtig. Wir bieten eine breite Palette an Zaunbeschl\u00e4gen in verschiedenen Stilen und Ausf\u00fchrungen, die Ihnen helfen, Ihren Zaun zu vervollst\u00e4ndigen. Unsere Zaunbeschl\u00e4ge sind robust, langlebig und einfach zu installieren. St\u00f6bern Sie jetzt durch unser Angebot und bestellen Sie noch heute."
+          },
+          {
+            "title": "M\u00f6belbeschl\u00e4ge",
+            "text": "Verleihen Sie Ihren M\u00f6beln den letzten Schliff mit unseren hochwertigen <a href=\"/kategorie/moebelbeschlaege/\" title=\"M\u00f6belbeschl\u00e4ge\">M\u00f6belbeschl\u00e4ge</a>n im Eisenwaren & Beschl\u00e4ge Online-Shop. Unsere M\u00f6belbeschl\u00e4ge sind aus langlebigen Materialien hergestellt und bieten eine robuste Befestigungsl\u00f6sung f\u00fcr Ihre M\u00f6bel. Ob Sie einen Griff f\u00fcr Ihre K\u00fcchenschr\u00e4nke, Scharniere f\u00fcr Ihre T\u00fcren oder F\u00fc\u00dfe f\u00fcr Ihre M\u00f6bel ben\u00f6tigen, wir haben alles, was Sie brauchen. St\u00f6bern Sie jetzt durch unser Angebot und bestellen Sie noch heute."
+          },
+          {
+            "title": "Maschinenschrauben",
+            "text": "Die Kategorie <a href=\"/kategorie/maschinenschrauben/\" title=\"Maschinenschrauben\">Maschinenschrauben</a> bei Eisenwaren & Beschl\u00e4ge bietet eine gro\u00dfe Auswahl an robusten und langlebigen Schrauben f\u00fcr den Einsatz in Maschinen und industriellen Anwendungen. Unsere Maschinenschrauben sind aus hochwertigen Materialien gefertigt und erf\u00fcllen hohe Qualit\u00e4tsstandards. Ob Sie eine Schraube f\u00fcr eine spezielle Anwendung ben\u00f6tigen oder ein Set f\u00fcr den allgemeinen Einsatz, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie die perfekte Schraube f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "N\u00e4gel-Sets",
+            "text": "Die Kategorie <a href=\"/kategorie/naegel-sets/\" title=\"N\u00e4gel-Sets\">N\u00e4gel-Sets</a> bei Eisenwaren & Beschl\u00e4ge bietet eine gro\u00dfe Auswahl an hochwertigen N\u00e4geln in praktischen Sets. Unsere N\u00e4gel sind aus robusten Materialien gefertigt und erf\u00fcllen hohe Qualit\u00e4tsstandards. Ob Sie ein Set f\u00fcr den Heimwerkerbedarf oder f\u00fcr den professionellen Einsatz ben\u00f6tigen, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte N\u00e4gel-Set f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Holzschrauben-Sets",
+            "text": "Die Kategorie <a href=\"/kategorie/holzschrauben-sets/\" title=\"Holzschrauben-Sets\">Holzschrauben-Sets</a> bei Eisenwaren & Beschl\u00e4ge bietet eine gro\u00dfe Auswahl an robusten und langlebigen Holzschrauben in praktischen Sets. Unsere Holzschrauben sind aus hochwertigen Materialien gefertigt und erf\u00fcllen hohe Qualit\u00e4tsstandards. Ob Sie ein Set f\u00fcr den Heimwerkerbedarf oder f\u00fcr den professionellen Einsatz ben\u00f6tigen, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Holzschrauben-Set f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Seile & Ketten",
+            "text": "Entdecken Sie die gro\u00dfe Auswahl an Seilen & Ketten in unserem Online-Shop www.eisenwarehouse.de. Wir bieten Ihnen eine breite Palette an hochwertigen Seilen f\u00fcr alle Anwendungsbereiche. Von robusten Anschlagseilen f\u00fcr den Baubereich bis hin zu strapazierf\u00e4higen Seilen f\u00fcr den t\u00e4glichen Gebrauch, finden Sie bei uns das richtige Seil. Unsere Ketten sind ebenfalls in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken erh\u00e4ltlich und bieten Ihnen eine zuverl\u00e4ssige Befestigungsl\u00f6sung f\u00fcr viele Anwendungsbereiche. Besuchen Sie jetzt unseren Online-Shop und finden Sie das passende Seil oder Kette f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Seile & Schn\u00fcre",
+            "text": "In unserem Online-Shop www.eisenwarehouse.de finden Sie eine gro\u00dfe Auswahl an Seilen & Schn\u00fcren f\u00fcr alle Anwendungsbereiche. Von strapazierf\u00e4higen Nylonseilen f\u00fcr den t\u00e4glichen Gebrauch bis hin zu robusten Polypropylenseilen f\u00fcr den Baubereich, bieten wir Ihnen eine breite Palette an hochwertigen Seilen. Unsere Schn\u00fcre sind ebenfalls in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken erh\u00e4ltlich und bieten Ihnen eine zuverl\u00e4ssige Befestigungsl\u00f6sung f\u00fcr viele Anwendungsbereiche. Besuchen Sie jetzt unseren Online-Shop und finden Sie das passende Seil oder Schnur f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Weitere Seile & Schn\u00fcre",
+            "text": "In unserem Online-Shop www.eisenwarehouse.de finden Sie auch weitere Seile & Schn\u00fcre f\u00fcr alle Anwendungsbereiche. Unsere breite Palette an hochwertigen Seilen und Schn\u00fcren bietet Ihnen eine zuverl\u00e4ssige Befestigungsl\u00f6sung f\u00fcr viele Anwendungsbereiche. Von strapazierf\u00e4higen Seilen f\u00fcr den t\u00e4glichen Gebrauch bis hin zu robusten Seilen f\u00fcr den Baubereich, bieten wir Ihnen eine gro\u00dfe Auswahl an Produkten. Besuchen Sie jetzt unseren Online-Shop und finden Sie das passende Seil oder Schnur f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Deckenhaken",
+            "text": "Entdecken Sie unser umfangreiches Angebot an <a href=\"/kategorie/deckenhaken/\" title=\"Deckenhaken\">Deckenhaken</a> in unserem Online-Shop. Wir bieten hochwertige und langlebige Deckenhaken in verschiedenen Gr\u00f6\u00dfen und Materialien. Diese eignen sich ideal f\u00fcr den Einsatz im Innen- und Au\u00dfenbereich. Ob Sie einen Deckenhaken f\u00fcr eine Lampe, einen Vorhang oder ein anderes Projekt ben\u00f6tigen, bei uns werden Sie f\u00fcndig. Bestellen Sie jetzt und profitieren Sie von schneller Lieferung und ausgezeichnetem Kundenservice."
+          },
+          {
+            "title": "M\u00f6belschl\u00f6sser",
+            "text": "Sch\u00fctzen Sie Ihre M\u00f6bel vor unbefugtem Zugriff mit unseren hochwertigen <a href=\"/kategorie/moebelschloesser/\" title=\"M\u00f6belschl\u00f6sser\">M\u00f6belschl\u00f6sser</a>n. Wir bieten eine gro\u00dfe Auswahl an M\u00f6belschl\u00f6ssern in verschiedenen Gr\u00f6\u00dfen und Stilen, die f\u00fcr alle Arten von M\u00f6beln geeignet sind. Ob Sie ein Schloss f\u00fcr Ihren Schrank, Ihre Kommode oder Ihren Safe ben\u00f6tigen, bei uns finden Sie das passende Schloss. Bestellen Sie jetzt und sch\u00fctzen Sie Ihre M\u00f6bel mit Stil."
+          },
+          {
+            "title": "Schilder",
+            "text": "Verleihen Sie Ihren R\u00e4umen eine pers\u00f6nliche Note mit unseren <a href=\"/kategorie/schilder/\" title=\"Schilder\">Schilder</a>n. Wir bieten eine gro\u00dfe Auswahl an Schildern in verschiedenen Gr\u00f6\u00dfen, Farben und Stilen, die f\u00fcr alle Arten von R\u00e4umen geeignet sind. Ob Sie ein Schild f\u00fcr Ihr B\u00fcro, Ihr Zuhause oder Ihre Gesch\u00e4ftsr\u00e4ume ben\u00f6tigen, bei uns werden Sie f\u00fcndig. Bestellen Sie jetzt und verleihen Sie Ihren R\u00e4umen eine pers\u00f6nliche Note."
+          },
+          {
+            "title": "Torbeschl\u00e4ge",
+            "text": "<a href=\"/kategorie/torbeschlaege/\" title=\"Torbeschl\u00e4ge\">Torbeschl\u00e4ge</a> sind ein wichtiger Bestandteil jedes Tores und tragen zur Sicherheit und Stabilit\u00e4t bei. Bei Eisenwarehouse finden Sie eine gro\u00dfe Auswahl an hochwertigen Torbeschl\u00e4gen, die Ihnen lange Zeit gute Dienste leisten werden. Wir bieten sowohl traditionelle als auch moderne Torbeschl\u00e4ge in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen, damit Sie genau das finden, was Ihren Anforderungen entspricht."
+          },
+          {
+            "title": "Kloben",
+            "text": "<a href=\"/kategorie/kloben/\" title=\"Kloben\">Kloben</a> sind ein unverzichtbares Zubeh\u00f6r f\u00fcr T\u00fcren und Fenster und erm\u00f6glichen eine sichere Befestigung. Bei Eisenwarehouse finden Sie eine gro\u00dfe Auswahl an Kloben in verschiedenen Ausf\u00fchrungen und Materialien, darunter Messing, Edelstahl und verzinktem Stahl. W\u00e4hlen Sie die Kloben, die am besten zu Ihrem T\u00fcr- oder Fensterrahmen passen und Ihre Anforderungen erf\u00fcllen."
+          },
+          {
+            "title": "Scharniere & Beschl\u00e4ge",
+            "text": "Scharniere und Beschl\u00e4ge sind unverzichtbar f\u00fcr den reibungslosen Betrieb von T\u00fcren und Fenstern. Bei Eisenwarehouse finden Sie eine gro\u00dfe Auswahl an hochwertigen Scharnieren und Beschl\u00e4gen in verschiedenen Gr\u00f6\u00dfen, Ausf\u00fchrungen und Materialien, darunter Messing, Edelstahl und verzinktem Stahl. Ob Sie eine neue T\u00fcr oder ein neues Fenster einbauen oder Ihre bestehenden besch\u00e4digen Scharniere und Beschl\u00e4ge ersetzen m\u00f6chten, bei uns finden Sie alles, was Sie brauchen."
+          },
+          {
+            "title": "Scharniere",
+            "text": "Entdecken Sie unser breites Angebot an <a href=\"/kategorie/scharniere/\" title=\"Scharniere\">Scharniere</a>n f\u00fcr jeden Bedarf im Online-Shop von Eisenwarehouse. Wir bieten hochwertige Scharniere in verschiedenen Ausf\u00fchrungen und Gr\u00f6\u00dfen, um jedes T\u00fcr- und Fensterprojekt erfolgreich zu abschlie\u00dfen. Ob Sie eine einfache T\u00fcrmontage oder eine komplexe Schrankt\u00fcr brauchen, wir haben die passenden Scharniere f\u00fcr Sie. Z\u00f6gern Sie nicht, unser Sortiment zu durchst\u00f6bern und das perfekte Scharnier f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          },
+          {
+            "title": "Bohrschrauben",
+            "text": "Eisenwarehouse bietet eine breite Palette an <a href=\"/kategorie/bohrschrauben/\" title=\"Bohrschrauben\">Bohrschrauben</a>, um jedes Projekt zu erf\u00fcllen. Unsere Bohrschrauben sind in verschiedenen Gr\u00f6\u00dfen, Materialien und Ausf\u00fchrungen erh\u00e4ltlich, um Ihre Anforderungen zu erf\u00fcllen. Ob Sie eine einfache Montage oder eine komplexe Konstruktion ben\u00f6tigen, wir haben die perfekte Bohrschraube f\u00fcr Sie. Durchst\u00f6bern Sie unser Angebot und finden Sie die Bohrschrauben, die Ihren Bed\u00fcrfnissen entsprechen."
+          },
+          {
+            "title": "Haken- & \u00d6sen-Sets",
+            "text": "Eisenwarehouse bietet eine gro\u00dfe Auswahl an Haken- und \u00d6sen-Sets f\u00fcr alle Ihre Bed\u00fcrfnisse. Unsere Sets sind in verschiedenen Gr\u00f6\u00dfen, Materialien und Ausf\u00fchrungen erh\u00e4tlich, um Ihre Anforderungen zu erf\u00fcllen. Ob Sie eine einfache Montage oder eine komplexe Konstruktion ben\u00f6tigen, wir haben das perfekte Set f\u00fcr Sie. St\u00f6bern Sie durch unser Angebot und finden Sie das Haken- und \u00d6senset, das Ihren Bed\u00fcrfnissen entspricht."
+          },
+          {
+            "title": "Schubkastenausz\u00fcge",
+            "text": "<a href=\"/kategorie/schubkastenauszuege/\" title=\"Schubkastenausz\u00fcge\">Schubkastenausz\u00fcge</a> sind ein unverzichtbarer Bestandteil jeder K\u00fcche oder jedem M\u00f6belst\u00fcck mit Schubladen. Sie erm\u00f6glichen eine einfache und bequeme Handhabung der Schubladen. Im Online Shop von Eisenwarehouse finden Sie eine gro\u00dfe Auswahl an hochwertigen Schubkastenausz\u00fcgen in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. St\u00f6bern Sie durch unsere Produkte und finden Sie den perfekten Schubkastenauszug f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Schnellbauschrauben & Trockenbauschrauben",
+            "text": "Schnellbauschrauben und Trockenbauschrauben sind wichtige Werkzeuge f\u00fcr jeden Handwerker oder Heimwerker. Sie erleichtern das Bauen und Montieren von Holzkonstruktionen und M\u00f6beln. Im Online Shop von Eisenwarehouse finden Sie eine gro\u00dfe Auswahl an hochwertigen Schnellbauschrauben und Trockenbauschrauben in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. St\u00f6bern Sie durch unsere Produkte und finden Sie die perfekte Schraube f\u00fcr Ihr n\u00e4chstes Projekt."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Eisenwaren & Beschläge",
-        "defaultMetaDescription": "Eisenwaren & Beschläge - Finden Sie alles für Ihr Projekt in der Kategorie $KATEGORIE. Riesige Auswahl, Top-Preise & schneller Versand!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Online Shop f\u00fcr Eisenwaren & Beschl\u00e4ge",
+      "metaDescription": "Breites Sortiment an Eisenwaren & Beschl\u00e4ge. Bestellen Sie jetzt g\u00fcnstig und bequem von zu Hause. Schnelle Lieferung von Schrauben, D\u00fcbel, Bleche, Stangen uvm. ",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Markenprodukte zu Top Preisen",
-        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller für Eisenwaren und Beschläge. Überzeugen Sie sich von der Qualität unserer Produkte.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Eisenwaren & Beschläge",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Eisenwaren & Beschläge Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Eisenwaren & Beschläge Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Eisenwaren & Beschl\u00e4ge | Auflistung von Herstellern",
+      "metaDescription": "Marktf\u00fchrende Hersteller f\u00fcr Eisenwaren & Beschl\u00e4ge. Bei uns finden Sie Produkte von Marken wie: Fischer, Spax, Burg W\u00e4chter, Hettich, LUX-TOOLS uvm. ",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - eine gute Wahl ",
+    "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Eisenwaren & Beschl\u00e4ge zu Top Preisen. Finden Sie weitere hochwertige Produkte in der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Eisenwaren & Beschl\u00e4ge",
+    "defaultMetaDescription": "Eisenwaren & Beschl\u00e4ge - Finden Sie alles f\u00fcr Ihr Projekt in der Kategorie $KATEGORIE. Riesige Auswahl, Top-Preise & schneller Versand!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Markenprodukte zu Top Preisen",
+    "defaultMetaDescription": "$HERSTELLER ist f\u00fchrender Hersteller f\u00fcr Eisenwaren und Beschl\u00e4ge. \u00dcberzeugen Sie sich von der Qualit\u00e4t unserer Produkte.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Eisenwaren & Beschl\u00e4ge",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Eisenwaren & Beschl\u00e4ge Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Eisenwaren & Beschl\u00e4ge Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
